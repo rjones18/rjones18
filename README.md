@@ -12,11 +12,15 @@
 
 ---
 
-### Languages
+### Languages:
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 ![Bash](https://img.shields.io/badge/Code-Bash-informational?style=for-the-badge&logo=bash&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 
-### Version Control
+### Tools:
+
 ![Git](https://img.shields.io/badge/Tech-Git-informational?style=for-the-badge&logo=Git&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 ![Github](https://img.shields.io/badge/Tech-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![Jupyternotebooks](https://img.shields.io/badge/Tech-Jupyternotebooks-informational?style=for-the-badge&logo=jupyternotebooks&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![Windows](https://img.shields.io/badge/Tech-Windows-informational?style=for-the-badge&logo=windows&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![Linux](https://img.shields.io/badge/Tech-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
