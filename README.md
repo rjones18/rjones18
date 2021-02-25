@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 <!--
 **rjones18/rjones18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
