@@ -1,17 +1,22 @@
 # Hi there, my name is Reginald Jones!
 
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
-<!--
-**rjones18/rjones18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I am a husband, cybersecurity professional, and python programmer.
+
+- 🔭 I’m currently SOC Analyst at Voya Financial.
+- 🌱 I’m currently learning Javascript.
+- 💬 Ask me about anything IT related. Love to chat!
+
+---
+
+### Languages
+
+![Python](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![Bash](https://img.shields.io/badge/Code-Bash-informational?style=for-the-badge&logo=bash&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+
+### Version Control
+![Git](https://img.shields.io/badge/Tech-Git-informational?style=for-the-badge&logo=Git&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![Github](https://img.shields.io/badge/Tech-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
