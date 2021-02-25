@@ -1,4 +1,4 @@
-# Hi there, my name is Reginald Jones!
+# Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
@@ -16,6 +16,8 @@
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 ![Bash](https://img.shields.io/badge/Code-Bash-informational?style=for-the-badge&logo=bash&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![CSS](https://img.shields.io/badge/Code-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![HTML](https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 
 ### Frameworks:
 ![Flask](https://img.shields.io/badge/Data-Flask-informational?style=for-the-badge&logo=flask&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
