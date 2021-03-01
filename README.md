@@ -5,7 +5,6 @@
 ---
 
 ## I am a husband, cybersecurity professional, and python programmer!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rjones18&label=Views&color=blue&style=plastic" alt="rjones18" /> </p>
 
 - 🔭 I’m a SOC Analyst at Voya Financial.
 - 🌱 I’m currently learning everything 🤣.
