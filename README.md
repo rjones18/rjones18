@@ -1,10 +1,10 @@
-# Hi there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
 ---
 
-## I am a husband, cybersecurity professional, and python programmer.
+## I am a husband, cybersecurity professional, and python programmer!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rjones18&label=Views&color=blue&style=plastic" alt="rjones18" /> </p>
 
 - 🔭 I’m a SOC Analyst at Voya Financial.
