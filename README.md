@@ -6,9 +6,17 @@
 
 ## I am a husband, cybersecurity professional, and python programmer.
 
-- 🔭 I’m currently SOC Analyst at Voya Financial.
-- 🌱 I’m currently learning AWS.
+- 🔭 I’m a SOC Analyst at Voya Financial.
+- 🌱 I’m currently learning everything 🤣.
+- 🥅 2021 Goals: Grow in my python development skills
+- ⚡ Fun fact: I love going to the gym!
 - 💬 Ask me about anything IT related. Love to chat!
+
+---
+
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-reggiejones.vercel.app/api/spotify-playing" alt="ReggieJones Spotify Playing" width="350" />](https://open.spotify.com/album/406YMcI7NSxhTbhvxkfu2H)
 
 ---
 
