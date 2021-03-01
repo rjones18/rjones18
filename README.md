@@ -5,6 +5,7 @@
 ---
 
 ## I am a husband, cybersecurity professional, and python programmer.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rjones18&label=Views&color=blue&style=plastic" alt="rjones18" /> </p>
 
 - 🔭 I’m a SOC Analyst at Voya Financial.
 - 🌱 I’m currently learning everything 🤣.
@@ -12,13 +13,27 @@
 - ⚡ Fun fact: I love going to the gym!
 - 💬 Ask me about anything IT related. Love to chat!
 
+
+### Connect With Me:
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/reginald-jones-297093124/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="reginald-jones" height="30" width="40" /></a>
+</p>
+
+
+---
+ <a href="https://github.com/rjones18">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjones18&theme=light&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/rjones18">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=rjones18&show_icons=true&theme=light&line_height=27" alt="Reginald's github stats"/>
+</a>
+
 ---
 
-### Spotify Playing 🎧
 
-[<img src="https://now-playing-reggiejones.vercel.app/api/spotify-playing" alt="ReggieJones Spotify Playing" width="350" />](https://open.spotify.com/album/406YMcI7NSxhTbhvxkfu2H)
-
----
 
 ### Languages:
 
