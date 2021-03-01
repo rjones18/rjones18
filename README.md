@@ -23,17 +23,6 @@
 
 
 ---
- <a href="https://github.com/rjones18">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjones18&theme=light&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/rjones18">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rjones18&show_icons=true&theme=light&line_height=27" alt="Reginald's github stats"/>
-</a>
-
----
-
-
 
 ### Languages:
 
@@ -56,3 +45,21 @@
 ![Jupyternotebooks](https://img.shields.io/badge/Tech-Jupyternotebooks-informational?style=for-the-badge&logo=jupyternotebooks&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 ![Windows](https://img.shields.io/badge/Tech-Windows-informational?style=for-the-badge&logo=windows&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 ![Linux](https://img.shields.io/badge/Tech-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+
+
+
+
+---
+
+<a href="https://github.com/rjones18">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjones18&theme=light&hide_langs_below=1" />
+</a>
+
+<a href="https://github.com/rjones18">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=rjones18&show_icons=true&theme=light&line_height=27" alt="Reginald's github stats"/>
+</a>
+
+---
+
+
+
