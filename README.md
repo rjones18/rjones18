@@ -7,7 +7,7 @@
 ## I am a husband, cybersecurity professional, and python programmer.
 
 - 🔭 I’m currently SOC Analyst at Voya Financial.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning AWS.
 - 💬 Ask me about anything IT related. Love to chat!
 
 ---
