@@ -46,10 +46,28 @@
 ![Windows](https://img.shields.io/badge/Tech-Windows-informational?style=for-the-badge&logo=windows&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 ![Linux](https://img.shields.io/badge/Tech-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 
+---
+### Top Projects:
+
+</a>
+<a href="https://github.com/rjones18/Spam-Bot">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Spam-Bot&theme=light" />
+
+
+</a>
+<a href="https://github.com/rjones18/Keylogger">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Keylogger&theme=light" />
+</a>
+
+<div align="center">
+
+
 
 
 
 ---
+
+### Stats:
 
 <a href="https://github.com/rjones18">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjones18&theme=light&hide_langs_below=1" />
