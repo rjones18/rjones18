@@ -16,7 +16,7 @@
 
 ### Connect With Me:
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://www.linkedin.com/in/reginald-jones-297093124/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="reginald-jones" height="30" width="40" /></a>
 </p>
