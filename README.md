@@ -22,7 +22,7 @@
 
 ---
 
-### Now Listening:
+### Spotify Playing 🎧:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=l896cnreptmbkpucr7kteejwh&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=l896cnreptmbkpucr7kteejwh&redirect=true)
 
