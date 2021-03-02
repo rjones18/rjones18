@@ -24,6 +24,12 @@
 
 ---
 
+### Now Listening:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=l896cnreptmbkpucr7kteejwh&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=l896cnreptmbkpucr7kteejwh&redirect=true)
+
+---
+
 ### Languages:
 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
@@ -79,6 +85,4 @@
 </a>
 
 ---
-
-
 
