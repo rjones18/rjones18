@@ -42,10 +42,11 @@
 
 ![Git](https://img.shields.io/badge/Tech-Git-informational?style=for-the-badge&logo=Git&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 ![Github](https://img.shields.io/badge/Tech-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![Jupyternotebooks](https://img.shields.io/badge/Tech-Jupyternotebooks-informational?style=for-the-badge&logo=jupyternotebooks&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![Jupyternotebooks](https://img.shields.io/badge/Tech-Jupyter_Notebooks-informational?style=for-the-badge&logo=jupyternotebooks&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 ![Windows](https://img.shields.io/badge/Tech-Windows-informational?style=for-the-badge&logo=windows&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 ![Linux](https://img.shields.io/badge/Tech-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-
+![Kali Linux](https://img.shields.io/badge/Tech-Kali_Linux-informational?style=for-the-badge&logo=kali-linux&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![Microsoft Azure](https://img.shields.io/badge/Tech-Microsoft_Azure-informational?style=for-the-badge&logo=microsoft-azure&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 ---
 ### Top Projects:
 
