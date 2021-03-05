@@ -57,8 +57,8 @@
 ### Top Projects:
 
 </a>
-<a href="https://github.com/rjones18/Spam-Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Spam-Bot&theme=light" />
+<a href="https://github.com/rjones18/Tell-Me-the-Weather">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Tell-Me-the-Weather&theme=light" />
 
 
 </a>
