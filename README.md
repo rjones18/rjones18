@@ -57,12 +57,12 @@
 ### Top Projects:
 
 </a>
-<a href="https://github.com/rjones18/Tell-Me-the-Weather">
+<a href="https://github.com/rjones18/Tell-Me-the-Weathe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Tell-Me-the-Weather&theme=light" />
 
 
 </a>
-<a href="https://github.com/rjones18/Oxford-Dictionary">
+<a href="https://github.com/rjones18/Oxford-Dictionar">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Oxford-Dictionary&theme=light" />
 </a>
 
