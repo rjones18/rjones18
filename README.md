@@ -33,8 +33,8 @@
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 ![Bash](https://img.shields.io/badge/Code-Bash-informational?style=for-the-badge&logo=bash&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 ![Powershell](https://img.shields.io/badge/Code-Powershell-informational?style=for-the-badge&logo=powershell&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![CSS](https://img.shields.io/badge/Code-CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![HTML](https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![CSS](https://img.shields.io/badge/Code-CSS3-informational?style=for-the-badge&logo=css3&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![HTML](https://img.shields.io/badge/Code-HTML5-informational?style=for-the-badge&logo=html5&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 
 ### Frameworks:
 ![Flask](https://img.shields.io/badge/Data-Flask-informational?style=for-the-badge&logo=flask&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
