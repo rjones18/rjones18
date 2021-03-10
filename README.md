@@ -42,6 +42,7 @@
 ### Data:
 ![Pandas](https://img.shields.io/badge/Data-Pandas-informational?style=for-the-badge&logo=pandas&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 ![JSON](https://img.shields.io/badge/Data-JSON-informational?style=for-the-badge&logo=json&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![JSON](https://img.shields.io/badge/Data-MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 
 
 ### Tools:
