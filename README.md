@@ -45,7 +45,7 @@
 ![MongoDB](https://img.shields.io/badge/Data-MongoDB-informational?style=for-the-badge&logo=MongoDB&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 
 
-### Platforms
+### Platforms:
 ![Heroku](https://img.shields.io/badge/Tech-Heroku-informational?style=for-the-badge&logo=Heroku&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 
 ![Microsoft Azure](https://img.shields.io/badge/Tech-Microsoft_Azure-informational?style=for-the-badge&logo=microsoft-azure&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
