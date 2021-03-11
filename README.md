@@ -63,6 +63,12 @@
 ### Top Projects:
 
 </a>
+<a href="https://github.com/rjones18/Micro-Blog-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Micro-Blog-App&theme=light" />
+
+
+
+</a>
 <a href="https://github.com/rjones18/Tell-Me-the-Weather">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Tell-Me-the-Weather&theme=light" />
 
