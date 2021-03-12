@@ -63,6 +63,9 @@
 ### Top Projects:
 
 
+</a>
+<a href="https://github.com/rjones18/Micro-Blog-Application">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Micro-Blog-Application&theme=light" />
 
 
 
