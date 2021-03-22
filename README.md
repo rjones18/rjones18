@@ -7,7 +7,7 @@
 
 - 🔭 I’m a SOC Analyst at Voya Financial.
 - 🌱 I’m currently learning everything 🤣.
-- 🥅 2021 Goals: Grow in my python development skills
+- 🥅 2021 Goals: Grow in my offensive security skills
 - ⚡ Fun fact: I love going to the gym!
 - 💬 Ask me about anything IT related. Love to chat!
 
