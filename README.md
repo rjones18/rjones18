@@ -2,7 +2,7 @@
 
 ---
 
-## I am a husband, cybersecurity professional, and python programmer!</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+## I am a Husband, Cybersecurity Professional, and Python Programmer!</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 - 🔭 I’m a SOC Analyst at Voya Financial.
