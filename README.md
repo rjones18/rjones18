@@ -78,8 +78,8 @@
 
 
 </a>
-<a href="https://github.com/rjones18/Spam-Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Spam-Bot&theme=light" />
+<a href="https://github.com/rjones18/Red-Team-Blue-Team-Capstone-Project">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Red-Team-Blue-Team-Capstone-Project&theme=light" />
 
 
 </a>
