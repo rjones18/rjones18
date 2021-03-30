@@ -91,8 +91,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Tell-Me-the-Weather&theme=light" />
   
   </a>
-<a href="https://github.com/rjones18/My-Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=My-Website&theme=light" />
+<a href="https://github.com/rjones18/Network-Scanner">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Network-Scanner&theme=light" />
   
 
 
