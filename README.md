@@ -1,7 +1,5 @@
 
-
-[![Header](https://github.com/rjones18/Images/blob/main/portfolio.PNG)](https://rjones.netlify.app/#)
-
+<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
 ---
 
