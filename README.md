@@ -6,6 +6,8 @@
 ## I am a Husband, Cybersecurity Professional, and Python Programmer!</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=rjones18.rjones18)
+
 - 🔭 I’m a SOC Analyst at Voya Financial.
 - 🌱 I’m currently learning everything 🤣.
 - 🥅 2021 Goals: Grow in my offensive security skills
