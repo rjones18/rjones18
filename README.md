@@ -118,4 +118,12 @@
 </a>
 
 ---
+## Background
 
+Innovative Cybersecurity Professional with expertise in python, linux, and cloud. Offering 3+ years of professional tech experience, with a fresh Azure Fundementals and Azure Administrator Associate certification added to my belt. Quick to learn and master new technologies, and able to work in both team- and self-directed environments.
+
+#### View My Resume
+
+![Resume QR Code](https://github.com/rjones18/Images/blob/main/qr.png)
+
+---
