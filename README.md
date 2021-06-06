@@ -110,7 +110,7 @@
 
 
 <a href="https://github.com/rjones18">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjones18&theme=light&hide_langs_below=1&hide=jupyter%20notebook,html,css" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjones18&theme=light&hide_langs_below=1&hide=jupyter%20notebook" />
 </a>
 
 <a href="https://github.com/rjones18">
