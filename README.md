@@ -70,32 +70,32 @@
 
 </a>
 <a href="https://github.com/rjones18/Pokemon-Stats-Data-Analysis">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Pokemon-Stats-Data-Analysis&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Pokemon-Stats-Data-Analysis&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />
 </a>
 
 </a>
 <a href="https://github.com/rjones18/Micro-Blog-Application">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Micro-Blog-Application&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Micro-Blog-Application&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />
 
 
 
 
 </a>
 <a href="https://github.com/rjones18/You-Have-Been-Hacked">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=You-Have-Been-Hacked&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=You-Have-Been-Hacked&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />
 
 
 </a>
 <a href="https://github.com/rjones18/Spam-Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Spam-Bot&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Spam-Bot&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />
 
 </a>
 <a href="https://github.com/rjones18/Tell-Me-the-Weather">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Tell-Me-the-Weather&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Tell-Me-the-Weather&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />
   
   </a>
 <a href="https://github.com/rjones18/My-Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=My-Website&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=My-Website&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />
   
 
 
@@ -110,11 +110,11 @@
 
 
 <a href="https://github.com/rjones18">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjones18&theme=light&hide_langs_below=1&hide=jupyter%20notebook" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjones18&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true&hide_langs_below=1&hide=jupyter%20notebook" />
 </a>
 
 <a href="https://github.com/rjones18">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rjones18&show_icons=true&theme=light&line_height=27" alt="Reginald's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=rjones18&show_icons=true&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true&line_height=27" alt="Reginald's github stats"/>
 </a>
 
 ---
