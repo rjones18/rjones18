@@ -68,8 +68,8 @@
 ### Top Projects:
 
  </a>
-<a href="https://github.com/rjones18/Azure-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Azure-App&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />
+<a href="https://github.com/rjones18/Network-Scanner">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Network-Scanner&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />
 
  
  </a>
