@@ -8,7 +8,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rjones18.rjones18)
 
-- 🔭 I’m a SOC Analyst at Voya Financial.
+- 🔭 I’m a Cloud Security Engineer at Microsoft.
 - 🌱 I’m currently learning everything 🤣.
 - 🥅 2021 Goals: Grow in my cloud knowledge
 - ⚡ Fun fact: I love going to the gym!
