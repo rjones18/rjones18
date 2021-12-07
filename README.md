@@ -64,16 +64,26 @@
 ![Kali Linux](https://img.shields.io/badge/Tech-Kali_Linux-informational?style=for-the-badge&logo=kali-linux&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 
 ---
-### Top Projects:
+### Top Cloud Projects:
+
+
+</a>
+<a href="https://github.com/rjones18/Azure-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Azure-App&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />
+
+
+ </a>
+<a href="https://github.com/rjones18/Linux-Server-Flask-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Linux-Server-Flask-App&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />
+ 
+ --- 
+
+
+ ### Top Coding Projects:
 
  </a>
 <a href="https://github.com/rjones18/Network-Scanner">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Network-Scanner&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />
-
- 
- </a>
-<a href="https://github.com/rjones18/Azure-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Azure-App&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />
 
 
 </a>
@@ -98,10 +108,6 @@
 </a>
 <a href="https://github.com/rjones18/Tell-Me-the-Weather">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Tell-Me-the-Weather&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />
-  
-  </a>
-<a href="https://github.com/rjones18/My-Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=My-Website&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />
   
  
 ---
