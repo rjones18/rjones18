@@ -73,7 +73,7 @@
 
 </a>
 <a href="https://github.com/rjones18/AWS-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=AWS-App&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=AWS-Ap&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />  
   
 
  </a>
