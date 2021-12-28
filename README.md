@@ -64,29 +64,16 @@
 ![Kali Linux](https://img.shields.io/badge/Tech-Kali_Linux-informational?style=for-the-badge&logo=kali-linux&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 
 ---
-### Top Cloud Projects:
-
-
-</a>
-<a href="https://github.com/rjones18/Azure-Application">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Azure-Application&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />
+### AWS Cloud Projects:
 
 </a>
 <a href="https://github.com/rjones18/AWS-Application">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=AWS-Application&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />  
    
-
-</a>
-<a href="https://github.com/rjones18/Linux-Server-Flask-App-Azure">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Linux-Server-Flask-App-Azure&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />
  
  </a>
 <a href="https://github.com/rjones18/Linux-Server-Flask-App-AWS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Linux-Server-Flask-App-AWS&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />
-  
-</a>
-<a href="https://github.com/rjones18/My-Portfolio-Website-Azure-Static-Apps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=My-Portfolio-Website-Azure-Static-Apps&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />
   
   
 </a>
@@ -96,8 +83,25 @@
   
  --- 
 
-
- ### Top Coding Projects:
+### Azure Cloud Projects:
+  
+</a>
+<a href="https://github.com/rjones18/Azure-Application">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Azure-Application&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />
+  
+  
+</a>
+<a href="https://github.com/rjones18/Linux-Server-Flask-App-Azure">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Linux-Server-Flask-App-Azure&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />  
+  
+</a>
+<a href="https://github.com/rjones18/My-Portfolio-Website-Azure-Static-Apps">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=My-Portfolio-Website-Azure-Static-Apps&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />
+   
+  
+ --- 
+  
+ ### Coding Projects:
 
  </a>
 <a href="https://github.com/rjones18/Network-Scanner">
