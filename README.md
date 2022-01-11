@@ -70,14 +70,8 @@
 
 </a>
 <a href="https://github.com/rjones18/Code-Star-Application">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Code-Star-Application&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" /> 
-
-
-</a>
-<a href="https://github.com/rjones18/VPN-Server">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=VPN-Server&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Code-Star-Application&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />   
    
- 
  </a>
 <a href="https://github.com/rjones18/Linux-Server-Flask-App-AWS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Linux-Server-Flask-App-AWS&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />
@@ -87,7 +81,10 @@
 <a href="https://github.com/rjones18/My-Portfolio-Website-AWS-Amplify">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=My-Portfolio-Website-AWS-Amplify&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />  
   
-
+</a>
+<a href="https://github.com/rjones18/VPN-Server">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=VPN-Server&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />
+ 
   
  --- 
 
