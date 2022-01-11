@@ -48,14 +48,14 @@
 ![MongoDB](https://img.shields.io/badge/Data-MongoDB-informational?style=for-the-badge&logo=MongoDB&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 
 
-### Platforms:
-![Heroku](https://img.shields.io/badge/Tech-Heroku-informational?style=for-the-badge&logo=Heroku&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+### Cloud Platforms:
 
-![Netlify](https://img.shields.io/badge/Tech-Netlify-informational?style=for-the-badge&logo=Netlify&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![AWS](https://img.shields.io/badge/Tech-Amazon_Web_Service-informational?style=for-the-badge&logo=Amazon_Web_Service&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 
 ![Microsoft Azure](https://img.shields.io/badge/Tech-Microsoft_Azure-informational?style=for-the-badge&logo=microsoft-azure&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 
-### Tools:
+
+### Other Technology:
 
 ![Git](https://img.shields.io/badge/Tech-Git-informational?style=for-the-badge&logo=Git&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 ![Github](https://img.shields.io/badge/Tech-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
@@ -63,13 +63,19 @@
 ![Windows](https://img.shields.io/badge/Tech-Windows-informational?style=for-the-badge&logo=windows&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 ![Linux](https://img.shields.io/badge/Tech-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 ![Kali Linux](https://img.shields.io/badge/Tech-Kali_Linux-informational?style=for-the-badge&logo=kali-linux&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-
+![Heroku](https://img.shields.io/badge/Tech-Heroku-informational?style=for-the-badge&logo=Heroku&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![Netlify](https://img.shields.io/badge/Tech-Netlify-informational?style=for-the-badge&logo=Netlify&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 ---
 ### AWS Cloud Projects:
 
 </a>
-<a href="https://github.com/rjones18/AWS-Application">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=AWS-Application&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />  
+<a href="https://github.com/rjones18/Code-Star-Application">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Code-Star-Application&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" /> 
+
+
+</a>
+<a href="https://github.com/rjones18/VPN-Server">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=VPN-Server&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />  
    
  
  </a>
@@ -81,9 +87,7 @@
 <a href="https://github.com/rjones18/My-Portfolio-Website-AWS-Amplify">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=My-Portfolio-Website-AWS-Amplify&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />  
   
-</a>
-<a href="https://github.com/rjones18/Code-Star-Application">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Code-Star-Application&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" /> 
+
   
  --- 
 
