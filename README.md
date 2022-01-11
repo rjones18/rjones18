@@ -109,9 +109,15 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Linux-Server-Flask-App-Azure&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />  
   
 </a>
+<a href="https://github.com/rjones18/Blob-Storage-Static-Website ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Blob-Storage-Static-Website &title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />
+
+
+</a>
 <a href="https://github.com/rjones18/My-Portfolio-Website-Azure-Static-Apps">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=My-Portfolio-Website-Azure-Static-Apps&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />
    
+ 
   
  --- 
   
