@@ -8,7 +8,6 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rjones18.rjones18)
 
-- ☁️ I'm a Cloud Professional
 - 🎓 Georgia Institute of Technology Cyber/Network Security Bootcamp alum
 - 🎓 General Assembly Python Programming Bootcamp alum
 - 🌱 I’m currently learning everything 🤣.
