@@ -47,6 +47,7 @@
 ![Pandas](https://img.shields.io/badge/Data-Pandas-informational?style=for-the-badge&logo=pandas&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 ![JSON](https://img.shields.io/badge/Data-JSON-informational?style=for-the-badge&logo=json&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 ![MongoDB](https://img.shields.io/badge/Data-MongoDB-informational?style=for-the-badge&logo=MongoDB&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+![DynamoDB](https://img.shields.io/badge/Data-DynamoDB-informational?style=for-the-badge&logo=DynamoDBB&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 
 
 ### Cloud Platforms:
