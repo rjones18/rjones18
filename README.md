@@ -90,6 +90,11 @@
 <a href="https://github.com/rjones18/Linux-Server-Flask-App-AWS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Linux-Server-Flask-App-AWS&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />  
  
+</a>
+<a href="https://github.com/rjones18/AWS-Lambda-Static-Site">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=AWS-Lambda-Static-Site&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />    
+  
+  
 --- 
 
 ### Azure Cloud Projects:
