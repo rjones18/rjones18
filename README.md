@@ -2,25 +2,20 @@
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
 ---
-
-## I am a Husband, Cloud Developer, and Tech Enthusiast!</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<h2>I am a Husband, Cloud Systems Developer, and Tech Enthusiast!</h2>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rjones18.rjones18)
 
 - 🎓 Georgia Institute of Technology Cyber/Network Security Bootcamp alum
 - 🎓 General Assembly Python Programming Bootcamp alum
-- 🌱 I’m currently learning everything 🤣.
-- 🥅 2022 Goals: Learn everything AWS!
+- 🥅 2023 Goals: Learn everything Azure and GCP!
 - ⚡ Fun fact: I love going to the gym!
-- 💬 Ask me about anything IT related. Love to chat!
-
 
 ### Connect With Me:
 
 
 <p align="left">
-<a href="https://www.linkedin.com/in/reginald-jones-297093124/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="reginald-jones" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/reginald-jones-297093124/" target="blank"><img align="center" img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="50" width="50" /></a>
 </p>
 
 
@@ -31,43 +26,37 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=l896cnreptmbkpucr7kteejwh&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=l896cnreptmbkpucr7kteejwh&redirect=true)
 
 ---
+<h2>👨‍💻Coding/Scrpting Languages</h2>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg" alt="bash" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" />
 
-### Languages:
-
-![Python](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![Bash](https://img.shields.io/badge/Code-Bash-informational?style=for-the-badge&logo=bash&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![Powershell](https://img.shields.io/badge/Code-Powershell-informational?style=for-the-badge&logo=powershell&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![CSS](https://img.shields.io/badge/Code-CSS3-informational?style=for-the-badge&logo=css3&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![HTML](https://img.shields.io/badge/Code-HTML5-informational?style=for-the-badge&logo=html5&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-
-### Frameworks:
-![Flask](https://img.shields.io/badge/Data-Flask-informational?style=for-the-badge&logo=flask&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-
-### Data:
-![Pandas](https://img.shields.io/badge/Data-Pandas-informational?style=for-the-badge&logo=pandas&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![JSON](https://img.shields.io/badge/Data-JSON-informational?style=for-the-badge&logo=json&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![MongoDB](https://img.shields.io/badge/Data-MongoDB-informational?style=for-the-badge&logo=MongoDB&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![DynamoDB](https://img.shields.io/badge/Data-DynamoDB-informational?style=for-the-badge&logo=DynamoDBB&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+<h2>☁️Cloud Platforms</h2>
+<p align="left">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="azure" width="50" height="50" />
 
 
-### Cloud Platforms:
+<h2>🚀 DevOps and CI/CD</h2>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/packer/packer-original-wordmark.svg" alt="packer" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg" alt="git" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="50" height="50" /> 
 
-![AWS](https://img.shields.io/badge/Tech-Amazon_Web_Services-informational?style=for-the-badge&logo=amazon_web_services&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 
-![Microsoft Azure](https://img.shields.io/badge/Tech-Microsoft_Azure-informational?style=for-the-badge&logo=microsoft-azure&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
+<h2>💡 Other Technology</h2>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="50" height="50" />
 
-
-### Other Technology:
-
-![Git](https://img.shields.io/badge/Tech-Git-informational?style=for-the-badge&logo=Git&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![Github](https://img.shields.io/badge/Tech-GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Tech-Visual_Studio_Code-informational?style=for-the-badge&logo=visual_studio_code&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![Jupyternotebooks](https://img.shields.io/badge/Tech-Jupyter_Notebooks-informational?style=for-the-badge&logo=jupyternotebooks&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![Windows](https://img.shields.io/badge/Tech-Windows-informational?style=for-the-badge&logo=windows&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![Linux](https://img.shields.io/badge/Tech-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![Kali Linux](https://img.shields.io/badge/Tech-Kali_Linux-informational?style=for-the-badge&logo=kali-linux&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![Heroku](https://img.shields.io/badge/Tech-Heroku-informational?style=for-the-badge&logo=Heroku&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
-![Netlify](https://img.shields.io/badge/Tech-Netlify-informational?style=for-the-badge&logo=Netlify&logoColor=white&color=1ABC9B&labelColor=001837) &nbsp;
 ---
 ### AWS Cloud Projects:
 
@@ -157,10 +146,6 @@
   
 ---
 
-
-<a href="https://github.com/rjones18">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjones18&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true&hide_langs_below=1&hide=jupyter%20notebook, html, css" />
-</a>
 
 <a href="https://github.com/rjones18">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rjones18&show_icons=true&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true&line_height=27" alt="Reginald's github stats"/>
