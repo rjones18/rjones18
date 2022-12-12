@@ -27,8 +27,6 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h1> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h1>
-
 <h2>👨‍💻Coding/Scrpting Languages</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="50" height="50" />
@@ -73,7 +71,7 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h1>AWS Cloud Projects</h1>
+<h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>AWS Cloud Projects</h1>
 
 </a>
 <a href="https://github.com/rjones18/AWS-Elasticbeanstalk-Application">
@@ -87,77 +85,59 @@
 <a href="https://github.com/rjones18/My-Portfolio-Website-AWS-Amplify">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=My-Portfolio-Website-AWS-Amplify&theme=tokyonight" />  
   
-</a>  
-<a href="https://github.com/rjones18/Linux-Server-Flask-App-AWS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Linux-Server-Flask-App-AWS&theme=tokyonight" /> 
-  
   
 </a>  
 <a href="https://github.com/rjones18/AWS-Lambda-API-Gateway-Website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=AWS-Lambda-API-Gateway-Website&theme=tokyonight" /> 
-  
-</a>  
-<a href="https://github.com/rjones18/AWS-Codestar-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=AWS-Codestar-App&theme=tokyonight" /> 
-  
-  
+    
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h1>Azure Cloud Projects</h1>
-  
-</a>
+<h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>Azure Cloud Projects</h1>
+
+</a>  
 <a href="https://github.com/rjones18/Azure-Devops-Flask-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Azure-Devops-Flask-App&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Azure-Devops-Flask-App&theme=tokyonight" /> 
     
   
-</a>
+</a>  
 <a href="https://github.com/rjones18/Blob-Storage-Static-Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Blob-Storage-Static-Website&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />
-
-
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Blob-Storage-Static-Website&theme=tokyonight" />   
+  
+  
+</a>  
 <a href="https://github.com/rjones18/My-Portfolio-Website-Azure-Static-Apps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=My-Portfolio-Website-Azure-Static-Apps&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=My-Portfolio-Website-Azure-Static-Apps&theme=tokyonight" />   
    
- </a>
+  
+</a>  
 <a href="https://github.com/rjones18/Linux-Server-Flask-App-Azure">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Linux-Server-Flask-App-Azure&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Linux-Server-Flask-App-Azure&theme=tokyonight" />  
   
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   
- <h1>Coding Projects</h1>
+ <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>Coding Projects</h1>
 
- </a>
+
+</a>  
 <a href="https://github.com/rjones18/Pokemon-Stats-Data-Analysis">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Pokemon-Stats-Data-Analysis&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Pokemon-Stats-Data-Analysis&theme=tokyonight" />  
 
-</a>
+  
+</a>  
 <a href="https://github.com/rjones18/Micro-Blog-Application">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Micro-Blog-Application&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Micro-Blog-Application&theme=tokyonight" />  
 
-
-</a>
-<a href="https://github.com/rjones18/You-Have-Been-Hacked">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=You-Have-Been-Hacked&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />
-
-
-</a>
-<a href="https://github.com/rjones18/Spam-Bot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Spam-Bot&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />
-
-</a>
+  
+</a>  
 <a href="https://github.com/rjones18/Tell-Me-the-Weather">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Tell-Me-the-Weather&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Tell-Me-the-Weather&theme=tokyonight" />  
   
- 
-</a>
+  
+</a>  
 <a href="https://github.com/rjones18/Network-Scanner">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Network-Scanner&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />
-  
-  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Network-Scanner&theme=tokyonight" /> 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
