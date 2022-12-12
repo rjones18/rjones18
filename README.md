@@ -69,20 +69,20 @@
 
 </a>
 <a href="https://github.com/rjones18/AWS-Elasticbeanstalk-Application">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=AWS-Elasticbeanstalk-Application&theme=tokyonight" />     
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=AWS-Elasticbeanstalk-Application&theme=vue" />     
   
 </a>  
 <a href="https://github.com/rjones18/S3-Bucket-Static-Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=S3-Bucket-Static-Website&theme=tokyonight" />  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=S3-Bucket-Static-Website&theme=vue" />  
 
 </a>
 <a href="https://github.com/rjones18/My-Portfolio-Website-AWS-Amplify">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=My-Portfolio-Website-AWS-Amplify&theme=tokyonight" />  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=My-Portfolio-Website-AWS-Amplify&theme=vue" />  
   
   
 </a>  
 <a href="https://github.com/rjones18/AWS-Lambda-API-Gateway-Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=AWS-Lambda-API-Gateway-Website&theme=tokyonight" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=AWS-Lambda-API-Gateway-Website&theme=vue" /> 
     
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -91,22 +91,22 @@
 
 </a>  
 <a href="https://github.com/rjones18/Azure-Devops-Flask-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Azure-Devops-Flask-App&theme=tokyonight" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Azure-Devops-Flask-App&theme=vue" /> 
     
   
 </a>  
 <a href="https://github.com/rjones18/Blob-Storage-Static-Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Blob-Storage-Static-Website&theme=tokyonight" />   
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Blob-Storage-Static-Website&theme=vue" />   
   
   
 </a>  
 <a href="https://github.com/rjones18/My-Portfolio-Website-Azure-Static-Apps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=My-Portfolio-Website-Azure-Static-Apps&theme=tokyonight" />   
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=My-Portfolio-Website-Azure-Static-Apps&theme=vue" />   
    
   
 </a>  
 <a href="https://github.com/rjones18/Linux-Server-Flask-App-Azure">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Linux-Server-Flask-App-Azure&theme=tokyonight" />  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Linux-Server-Flask-App-Azure&theme=vue" />  
   
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
@@ -116,26 +116,26 @@
 
 </a>  
 <a href="https://github.com/rjones18/Pokemon-Stats-Data-Analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Pokemon-Stats-Data-Analysis&theme=tokyonight" />  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Pokemon-Stats-Data-Analysis&theme=vue" />  
 
   
 </a>  
 <a href="https://github.com/rjones18/Micro-Blog-Application">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Micro-Blog-Application&theme=tokyonight" />  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Micro-Blog-Application&theme=vue" />  
 
   
 </a>  
 <a href="https://github.com/rjones18/Tell-Me-the-Weather">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Tell-Me-the-Weather&theme=tokyonight" />  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Tell-Me-the-Weather&theme=vue" />  
   
   
 </a>  
 <a href="https://github.com/rjones18/Network-Scanner">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Network-Scanner&theme=tokyonight" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Network-Scanner&theme=vue" /> 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-![Reggies's github stats](https://github-readme-stats.vercel.app/api?username=rjones18&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rjones18&theme=tokyonight" alt="mystreak"/>
-![Reggies's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjones18&theme=tokyonight&layout=compact)
+![Reggies's github stats](https://github-readme-stats.vercel.app/api?username=rjones18&show_icons=true&theme=vue)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rjones18&theme=vue" alt="mystreak"/>
+![Reggies's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjones18&theme=vue&layout=compact)
