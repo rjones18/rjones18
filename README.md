@@ -137,4 +137,4 @@
 
 ![Reggies's github stats](https://github-readme-stats.vercel.app/api?username=rjones18&show_icons=true&theme=vue)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rjones18&theme=vue" alt="mystreak"/>
-![Reggies's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjones18&theme=vue&layout=compact)
+![Reggies's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjones18&theme=vue&layout=compact&hide=jupyter%20notebook,html,css)
