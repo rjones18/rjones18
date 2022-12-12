@@ -103,7 +103,7 @@
   
 --- 
 
-### Azure Cloud Projects:
+<h1>Azure Cloud Projects</h1>
   
 </a>
 <a href="https://github.com/rjones18/Azure-Devops-Flask-App">
@@ -125,7 +125,7 @@
   
  --- 
   
- ### Coding Projects:
+ <h1>Coding Projects</h1>
 
  </a>
 <a href="https://github.com/rjones18/Pokemon-Stats-Data-Analysis">
