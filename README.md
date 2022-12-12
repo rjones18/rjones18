@@ -5,18 +5,12 @@
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rjones18.rjones18)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/reginald-jones-297093124/)
 
 - 🎓 Georgia Institute of Technology Cyber/Network Security Bootcamp alum
 - 🎓 General Assembly Python Programming Bootcamp alum
 - 🥅 2023 Goals: Learn everything Azure and GCP!
 - ⚡ Fun fact: I love going to the gym!
-
-### Connect With Me:
-
-
-<p align="left">
-<a href="https://www.linkedin.com/in/reginald-jones-297093124/" target="blank"><img align="center" img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="50" width="50" /></a>
-</p>
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
