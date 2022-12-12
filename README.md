@@ -2,7 +2,7 @@
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
 ---
-<h2>I am a Husband, Cloud Systems Developer, and Tech Enthusiast!</h2>
+<h1>I am a Husband, Cloud Systems Developer, and Tech Enthusiast!</h1>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rjones18.rjones18)
 
@@ -33,6 +33,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" />
 
+  
 <h2>📦Libraries/Frameworks</h2> 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="50" height="50" />
@@ -69,7 +70,7 @@
 
 ---
 
-### AWS Cloud Projects:
+<h1>AWS Cloud Projects</h1>
 
 </a>
 <a href="https://github.com/rjones18/Code-Star-Application">
