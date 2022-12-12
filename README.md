@@ -3,7 +3,6 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h1>About Me</h1><picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rjones18.rjones18)
 
@@ -11,7 +10,7 @@
 - 🎓 General Assembly Python Programming Bootcamp alum
 - 🥅 2023 Goals: Learn everything Azure and GCP!
 - ⚡ Fun fact: I love going to the gym!
-- 
+
 ### Connect With Me:
 
 
@@ -103,7 +102,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=AWS-Codestar-App&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />
   
   
---- 
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h1>Azure Cloud Projects</h1>
   
@@ -125,7 +125,8 @@
 <a href="https://github.com/rjones18/Linux-Server-Flask-App-Azure">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Linux-Server-Flask-App-Azure&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />
   
- --- 
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
   
  <h1>Coding Projects</h1>
 
@@ -158,13 +159,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Network-Scanner&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true" />
   
   
----
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-
-<a href="https://github.com/rjones18">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rjones18&show_icons=true&title_color=ffffff&icon_color=00ba9d&text_color=ffffff&bg_color=001837&hide_border=true&line_height=27" alt="Reginald's github stats"/>
-</a>
-
----
-
+![Reggies's github stats](https://github-readme-stats.vercel.app/api?username=rjones18&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rjones18&theme=tokyonight" alt="mystreak"/>
+![Reggies's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjones18&theme=tokyonight&layout=compact)
