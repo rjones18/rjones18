@@ -12,14 +12,13 @@
 - 🥅 2023 Goals: Learn everything Azure and GCP!
 - ⚡ Fun fact: I love going to the gym!
 
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+---
 
 ### Spotify Playing 🎧:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=l896cnreptmbkpucr7kteejwh&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=l896cnreptmbkpucr7kteejwh&redirect=true)
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+---
 
 <h2>👨‍💻Coding/Scrpting Languages</h2>
 <p align="left">
@@ -63,7 +62,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgressql" width="50" height="50" />
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+---
 
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>AWS Cloud Projects</h1>
 
@@ -85,7 +84,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=AWS-Lambda-API-Gateway-Website&theme=vue" /> 
     
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+---
 
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>Azure Cloud Projects</h1>
 
@@ -109,7 +108,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Linux-Server-Flask-App-Azure&theme=vue" />  
   
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+---
   
  <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>Coding Projects</h1>
 
@@ -133,7 +132,7 @@
 <a href="https://github.com/rjones18/Network-Scanner">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Network-Scanner&theme=vue" /> 
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+---
 
 
 ![Reggies's github stats](https://github-readme-stats.vercel.app/api?username=rjones18&show_icons=true&theme=vue)
