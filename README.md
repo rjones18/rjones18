@@ -81,6 +81,11 @@
 
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>Azure Cloud Projects</h1>
 
+
+</a>  
+<a href="https://github.com/rjones18/Terraform-on-Azure-with-Azure-Devops">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Terraform-on-Azure-with-Azure-Devops&theme=vue" />  
+
 </a>  
 <a href="https://github.com/rjones18/Azure-Devops-Flask-App">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Azure-Devops-Flask-App&theme=vue" /> 
@@ -94,11 +99,6 @@
 </a>  
 <a href="https://github.com/rjones18/My-Portfolio-Website-Azure-Static-Apps">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=My-Portfolio-Website-Azure-Static-Apps&theme=vue" />   
-   
-  
-</a>  
-<a href="https://github.com/rjones18/Linux-Server-Flask-App-Azure">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Linux-Server-Flask-App-Azure&theme=vue" />  
   
 
 ---
