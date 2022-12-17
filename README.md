@@ -65,16 +65,18 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Terraform-Wordpress-Website-AWS&theme=vue" /> 
 
 </a>
+<a href="https://github.com/rjones18/AWS-CDK-EC2-Shutdown-Lambda">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=AWS-CDK-EC2-Shutdown-Lambda&theme=vue" />
+
+
+</a>
 <a href="https://github.com/rjones18/AWS-Elasticbeanstalk-Application">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=AWS-Elasticbeanstalk-Application&theme=vue" />     
   
 </a>  
 <a href="https://github.com/rjones18/S3-Bucket-Static-Website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=S3-Bucket-Static-Website&theme=vue" />  
-
-</a>
-<a href="https://github.com/rjones18/AWS-CDK-EC2-Shutdown-Lambda">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=AWS-CDK-EC2-Shutdown-Lambda&theme=vue" />  
+  
 
 ---
 
