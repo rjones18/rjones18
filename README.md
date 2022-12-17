@@ -73,8 +73,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=S3-Bucket-Static-Website&theme=vue" />  
 
 </a>
-<a href="https://github.com/rjones18/My-Portfolio-Website-AWS-Amplify">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=My-Portfolio-Website-AWS-Amplify&theme=vue" />  
+<a href="https://github.com/rjones18/AWS-Python-CDK-EC2-Shutdown-Lambda">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=AWS-Python-CDK-EC2-Shutdown-Lambda&theme=vue" />  
 
 ---
 
