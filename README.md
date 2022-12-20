@@ -84,8 +84,8 @@
 
 
 </a>  
-<a href="https://github.com/rjones18/Terraform-on-Azure-with-Azure-Devops">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Terraform-on-Azure-with-Azure-Devops&theme=vue" />  
+<a href="https://github.com/rjones18/Terraform-Azure-Devops-Website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Terraform-Azure-Devops-Website&theme=vue" />  
 
 </a>  
 <a href="https://github.com/rjones18/Azure-Devops-Flask-App">
