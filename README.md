@@ -63,20 +63,20 @@
 
 </a>  
 <a href="https://github.com/rjones18/Terraform-Wordpress-Website-AWS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Terraform-Wordpress-Website-AWS&theme=vue" /> 
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Terraform-Wordpress-Website-AWS&theme=vue" /> 
 
   </a>  
 <a href="https://github.com/rjones18/AWS-CDK-Portfolio-Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=AWS-CDK-Portfolio-Website&theme=vue" />  
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=AWS-CDK-Portfolio-Website&theme=vue" />  
   
 </a>
 <a href="https://github.com/rjones18/AWS-CDK-EC2-Shutdown-Lambda">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=AWS-CDK-EC2-Shutdown-Lambda&theme=vue" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=AWS-CDK-EC2-Shutdown-Lambda&theme=vue" />
 
 
 </a>
 <a href="https://github.com/rjones18/AWS-Elasticbeanstalk-Application">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=AWS-Elasticbeanstalk-Application&theme=vue" />     
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=AWS-Elasticbeanstalk-Application&theme=vue" />     
   
 
 ---
@@ -86,21 +86,21 @@
 
 </a>  
 <a href="https://github.com/rjones18/Terraform-Azure-Devops-Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Terraform-Azure-Devops-Website&theme=vue" />  
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Terraform-Azure-Devops-Website&theme=vue" />  
 
 </a>  
 <a href="https://github.com/rjones18/Azure-Devops-Flask-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Azure-Devops-Flask-App&theme=vue" /> 
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Azure-Devops-Flask-App&theme=vue" /> 
     
   
 </a>  
 <a href="https://github.com/rjones18/Blob-Storage-Static-Website">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Blob-Storage-Static-Website&theme=vue" />   
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Blob-Storage-Static-Website&theme=vue" />   
   
   
 </a>  
 <a href="https://github.com/rjones18/My-Portfolio-Website-Azure-Static-Apps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=My-Portfolio-Website-Azure-Static-Apps&theme=vue" />   
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=My-Portfolio-Website-Azure-Static-Apps&theme=vue" />   
   
 
 ---
@@ -109,7 +109,7 @@
   
 </a>  
 <a href="https://github.com/rjones18/GCP-App-Engine-Flask-Application">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=GCP-App-Engine-Flask-Application&theme=vue" />  
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=GCP-App-Engine-Flask-Application&theme=vue" />  
   
 ---
 
@@ -117,26 +117,26 @@
   
 </a>  
 <a href="https://github.com/rjones18/Pokemon-Stats-Data-Analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Pokemon-Stats-Data-Analysis&theme=vue" />  
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Pokemon-Stats-Data-Analysis&theme=vue" />  
 
   
 </a>  
 <a href="https://github.com/rjones18/Micro-Blog-Application">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Micro-Blog-Application&theme=vue" />  
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Micro-Blog-Application&theme=vue" />  
 
   
 </a>  
 <a href="https://github.com/rjones18/Tell-Me-the-Weather">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Tell-Me-the-Weather&theme=vue" />  
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Tell-Me-the-Weather&theme=vue" />  
   
   
 </a>  
 <a href="https://github.com/rjones18/Network-Scanner">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rjones18&repo=Network-Scanner&theme=vue" /> 
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Network-Scanner&theme=vue" /> 
 
 ---
 
 
-![Reggies's github stats](https://github-readme-stats.vercel.app/api?username=rjones18&show_icons=true&theme=vue)
+![Reggies's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rjones18&show_icons=true&theme=vue)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rjones18&theme=vue" alt="mystreak"/>
-![Reggies's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rjones18&theme=vue&layout=compact&hide=jupyter%20notebook,html,css)
+![Reggies's Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rjones18&theme=vue&layout=compact&hide=jupyter%20notebook,html,css)
