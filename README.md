@@ -32,8 +32,8 @@
 <h2>☁️Cloud Platforms</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="50" height="50" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="azure" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="azure" width="50" height="50" />
 
 
 <h2>🚀 DevOps and CI/CD</h2>
@@ -77,31 +77,6 @@
 </a>
 <a href="https://github.com/rjones18/AWS-Elasticbeanstalk-Application">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=AWS-Elasticbeanstalk-Application&theme=vue" />     
-  
-
----
-
-<h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>Azure Cloud Projects</h1>
-
-
-</a>  
-<a href="https://github.com/rjones18/Terraform-Azure-Devops-Website">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Terraform-Azure-Devops-Website&theme=vue" />  
-
-</a>  
-<a href="https://github.com/rjones18/Azure-Devops-Flask-App">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Azure-Devops-Flask-App&theme=vue" /> 
-    
-  
-</a>  
-<a href="https://github.com/rjones18/Blob-Storage-Static-Website">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Blob-Storage-Static-Website&theme=vue" />   
-  
-  
-</a>  
-<a href="https://github.com/rjones18/My-Portfolio-Website-Azure-Static-Apps">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=My-Portfolio-Website-Azure-Static-Apps&theme=vue" />   
-  
 
 ---
 
@@ -124,6 +99,31 @@
 </a>  
 <a href="https://github.com/rjones18/Terraform-Kubernetes-Engine">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Terraform-Kubernetes-Engine&theme=vue" />  
+
+---
+  
+  
+<h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>Azure Cloud Projects</h1>
+
+
+</a>  
+<a href="https://github.com/rjones18/Terraform-Azure-Devops-Website">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Terraform-Azure-Devops-Website&theme=vue" />  
+
+</a>  
+<a href="https://github.com/rjones18/Azure-Devops-Flask-App">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Azure-Devops-Flask-App&theme=vue" /> 
+    
+  
+</a>  
+<a href="https://github.com/rjones18/Blob-Storage-Static-Website">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Blob-Storage-Static-Website&theme=vue" />   
+  
+  
+</a>  
+<a href="https://github.com/rjones18/My-Portfolio-Website-Azure-Static-Apps">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=My-Portfolio-Website-Azure-Static-Apps&theme=vue" />   
+  
 
 ---
 
