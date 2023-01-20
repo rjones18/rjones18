@@ -107,8 +107,13 @@
 
 
 </a>  
-<a href="https://github.com/rjones18/Terraform-Azure-Devops-Website">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Terraform-Azure-Devops-Website&theme=vue" />  
+<a href="https://github.com/rjones18/Terraform-Azure-Kubernetes-Service">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Terraform-Azure-Kubernetes-Service&theme=vue" />  
+
+  
+</a>  
+<a href="https://github.com/rjones18/Azure-Docker-Build-Python-App">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Azure-Docker-Build-Python-App&theme=vue" />   
 
 </a>  
 <a href="https://github.com/rjones18/Azure-Devops-Flask-App">
@@ -117,12 +122,7 @@
   
 </a>  
 <a href="https://github.com/rjones18/Blob-Storage-Static-Website">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Blob-Storage-Static-Website&theme=vue" />   
-  
-  
-</a>  
-<a href="https://github.com/rjones18/My-Portfolio-Website-Azure-Static-Apps">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=My-Portfolio-Website-Azure-Static-Apps&theme=vue" />   
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Blob-Storage-Static-Website&theme=vue" /> 
   
 
 ---
