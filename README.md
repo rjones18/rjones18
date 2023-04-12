@@ -84,11 +84,7 @@
   
 </a>  
 <a href="https://github.com/rjones18/GCP-Cloud-Run-Golang-App">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=GCP-Cloud-Run-Golang-App&theme=vue" />  
-
-</a>  
-<a href="https://github.com/rjones18/GCP-Kubernetes-Python-App  ">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=GCP-Kubernetes-Python-App&theme=vue" />    
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=GCP-Cloud-Run-Golang-App&theme=vue" />    
   
 
 </a>  
