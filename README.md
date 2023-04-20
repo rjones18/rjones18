@@ -122,8 +122,8 @@
     
   
 </a>  
-<a href="https://github.com/rjones18/Blob-Storage-Static-Website">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Blob-Storage-Static-Website&theme=vue" /> 
+<a href="https://github.com/rjones18/Azure-CDN-Static-Website-Terraform">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Azure-CDN-Static-Website-Terraform&theme=vue" /> 
   
 
 ---
