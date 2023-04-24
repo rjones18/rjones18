@@ -109,23 +109,20 @@
 
 
 </a>  
+<a href="https://github.com/rjones18/Azure-CDN-Static-Website-Terraform">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Azure-CDN-Static-Website-Terraform&theme=vue" /> 
+  
+  
+</a>  
 <a href="https://github.com/rjones18/Terraform-Azure-Kubernetes-Service">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Terraform-Azure-Kubernetes-Service&theme=vue" />  
 
-  
-</a>  
-<a href="https://github.com/rjones18/Azure-Docker-Build-Python-App">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Azure-Docker-Build-Python-App&theme=vue" />   
+   
 
 </a>  
 <a href="https://github.com/rjones18/Azure-Devops-Flask-App">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Azure-Devops-Flask-App&theme=vue" /> 
     
-  
-</a>  
-<a href="https://github.com/rjones18/Azure-CDN-Static-Website-Terraform">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Azure-CDN-Static-Website-Terraform&theme=vue" /> 
-  
 
 ---
 
