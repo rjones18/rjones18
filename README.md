@@ -9,7 +9,7 @@
 
 - 🎓 Georgia Institute of Technology Cyber/Network Security Bootcamp alum
 - 🎓 General Assembly Python Programming Bootcamp alum
-- 🥅 2023 Goals: Learn GCP and Front/Backend Development!
+- 🥅 2023 Goals: Learn GCP and Kubernetes!
 - ⚡ Fun fact: I love working out!
 
 ---
