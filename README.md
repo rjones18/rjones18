@@ -89,8 +89,8 @@
   
 
 </a>  
-<a href="https://github.com/rjones18/GCP-App-Engine-Flask-Application">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=GCP-App-Engine-Flask-Application&theme=vue" />  
+<a href="https://github.com/rjones18/GCP-App-Engine-Pokemon-Flask-App">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=GCP-App-Engine-Pokemon-Flask-App&theme=vue" />  
 
 
  </a>  
