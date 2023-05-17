@@ -70,15 +70,16 @@
 <a href="https://github.com/rjones18/GCP-App-Engine-Pokemon-Flask-App">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=GCP-App-Engine-Pokemon-Flask-App&theme=vue" />  
 
-
+</a>  
+<a href="https://github.com/rjones18/Terraform-Kubernetes-Engine">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Terraform-Kubernetes-Engine&theme=vue" />  
+  
+  
  </a>  
 <a href="https://github.com/rjones18/Terraform-Wordpress-Website-GCP">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Terraform-Wordpress-Website-GCP&theme=vue" />  
   
-  
-</a>  
-<a href="https://github.com/rjones18/Terraform-Kubernetes-Engine">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Terraform-Kubernetes-Engine&theme=vue" />  
+
  
   
   
