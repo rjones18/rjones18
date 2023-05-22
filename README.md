@@ -97,8 +97,8 @@
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=AWS-CDK-Portfolio-Website&theme=vue" />  
   
 </a>
-<a href="https://github.com/rjones18/AWS-CDK-Save-Money-Lambda">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=AWS-CDK-Save-Money-Lambda&theme=vue" />
+<a href="https://github.com/rjones18/AWS-CDK-Cost-Saving-Lambdas">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=AWS-CDK-Cost-Saving-Lambdas&theme=vue" />
 
 
 </a>
