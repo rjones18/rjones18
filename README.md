@@ -74,28 +74,6 @@
 ---
 
 
-<h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>AWS Cloud Projects</h1>
-
-
-</a>  
-<a href="https://github.com/rjones18/Terraform-Wordpress-Website-AWS">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Terraform-Wordpress-Website-AWS&theme=vue" /> 
-
-  </a>  
-<a href="https://github.com/rjones18/AWS-CDK-Portfolio-Website">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=AWS-CDK-Portfolio-Website&theme=vue" />  
-  
-</a>
-<a href="https://github.com/rjones18/AWS-CDK-Cost-Saving-Lambdas">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=AWS-CDK-Cost-Saving-Lambdas&theme=vue" />
-
-
-</a>
-<a href="https://github.com/rjones18/AWS-Elasticbeanstalk-Application">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=AWS-Elasticbeanstalk-Application&theme=vue" />     
-
----
-
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>GCP Cloud Projects</h1>
   
 </a>  
@@ -123,6 +101,28 @@
   
   
 ---  
+
+<h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>AWS Cloud Projects</h1>
+
+
+</a>  
+<a href="https://github.com/rjones18/Terraform-Wordpress-Website-AWS">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Terraform-Wordpress-Website-AWS&theme=vue" /> 
+
+  </a>  
+<a href="https://github.com/rjones18/AWS-CDK-Portfolio-Website">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=AWS-CDK-Portfolio-Website&theme=vue" />  
+  
+</a>
+<a href="https://github.com/rjones18/AWS-CDK-Cost-Saving-Lambdas">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=AWS-CDK-Cost-Saving-Lambdas&theme=vue" />
+
+
+</a>
+<a href="https://github.com/rjones18/AWS-Elasticbeanstalk-Application">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=AWS-Elasticbeanstalk-Application&theme=vue" />     
+
+---
   
   
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>Azure Cloud Projects</h1>
