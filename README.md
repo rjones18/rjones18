@@ -88,11 +88,7 @@
 </a>  
 <a href="https://github.com/rjones18/Terraform-Kubernetes-Engine">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Terraform-Kubernetes-Engine&theme=vue" />  
-  
-  
- </a>  
-<a href="https://github.com/rjones18/GCP-VM-Shutdown-Cloud-Function">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=GCP-VM-Shutdown-Cloud-Function&theme=vue" />   
+    
  
  </a>  
 <a href="https://github.com/rjones18/Terraform-Wordpress-Website-GCP">
