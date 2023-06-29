@@ -132,7 +132,10 @@
 </a>  
 <a href="https://github.com/rjones18/Terraform-Azure-Kubernetes-Service">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Terraform-Azure-Kubernetes-Service&theme=vue" />  
- 
+
+</a>  
+<a href="https://github.com/rjones18/Azure-App-Service-Python-App">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Azure-App-Service-Python-App&theme=vue" />  
     
 
 ---
