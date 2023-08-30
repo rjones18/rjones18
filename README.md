@@ -78,21 +78,21 @@
   
 </a>  
 <a href="https://github.com/rjones18/GCP-Cloud-Run-Golang-App">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=GCP-Cloud-Run-Golang-App&theme=vue" />    
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=GCP-Cloud-Run-Golang-App&theme=react" />    
   
 
 </a>  
 <a href="https://github.com/rjones18/GCP-App-Engine-Pokemon-Flask-App">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=GCP-App-Engine-Pokemon-Flask-App&theme=vue" />  
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=GCP-App-Engine-Pokemon-Flask-App&theme=react" />  
 
 </a>  
 <a href="https://github.com/rjones18/Terraform-Kubernetes-Engine">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Terraform-Kubernetes-Engine&theme=vue" />  
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Terraform-Kubernetes-Engine&theme=react" />  
     
  
  </a>  
 <a href="https://github.com/rjones18/Terraform-Wordpress-Website-GCP">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Terraform-Wordpress-Website-GCP&theme=vue" /> 
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Terraform-Wordpress-Website-GCP&theme=react" /> 
  
   
   
@@ -103,20 +103,20 @@
 
 </a>  
 <a href="https://github.com/rjones18/Terraform-Wordpress-Website-AWS">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Terraform-Wordpress-Website-AWS&theme=vue" /> 
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Terraform-Wordpress-Website-AWS&theme=react" /> 
 
   </a>  
 <a href="https://github.com/rjones18/AWS-CDK-Portfolio-Website">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=AWS-CDK-Portfolio-Website&theme=vue" />  
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=AWS-CDK-Portfolio-Website&theme=react" />  
   
 </a>
 <a href="https://github.com/rjones18/AWS-CDK-Cost-Saving-Lambdas">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=AWS-CDK-Cost-Saving-Lambdas&theme=vue" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=AWS-CDK-Cost-Saving-Lambdas&theme=react" />
 
 
 </a>
 <a href="https://github.com/rjones18/AWS-Elasticbeanstalk-Application">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=AWS-Elasticbeanstalk-Application&theme=vue" />     
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=AWS-Elasticbeanstalk-Application&theme=react" />     
 
 ---
   
@@ -126,16 +126,16 @@
 
 </a>  
 <a href="https://github.com/rjones18/Azure-CDN-Static-Website-Terraform">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Azure-CDN-Static-Website-Terraform&theme=vue" /> 
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Azure-CDN-Static-Website-Terraform&theme=react" /> 
   
   
 </a>  
 <a href="https://github.com/rjones18/Terraform-Azure-Kubernetes-Service">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Terraform-Azure-Kubernetes-Service&theme=vue" />  
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Terraform-Azure-Kubernetes-Service&theme=react" />  
 
 </a>  
 <a href="https://github.com/rjones18/Azure-App-Service-Python-App">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Azure-App-Service-Python-App&theme=vue" />  
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Azure-App-Service-Python-App&theme=react" />  
     
 
 ---
@@ -144,22 +144,22 @@
   
 </a>  
 <a href="https://github.com/rjones18/Pokemon-Stats-Data-Analysis">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Pokemon-Stats-Data-Analysis&theme=vue" />  
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Pokemon-Stats-Data-Analysis&theme=react" />  
 
   
 </a>  
 <a href="https://github.com/rjones18/Micro-Blog-Application">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Micro-Blog-Application&theme=vue" />  
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Micro-Blog-Application&theme=react" />  
 
   
 </a>  
 <a href="https://github.com/rjones18/Tell-Me-the-Weather">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Tell-Me-the-Weather&theme=vue" />  
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Tell-Me-the-Weather&theme=react" />  
   
   
 </a>  
 <a href="https://github.com/rjones18/Network-Scanner">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Network-Scanner&theme=vue" /> 
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Network-Scanner&theme=react" /> 
 
 ---
 
