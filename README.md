@@ -73,6 +73,9 @@
 
 ---
 
+<details>
+  <summary>:zap: GCP Cloud Projects</summary>
+  
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>GCP Cloud Projects</h1>
   
 </a>  
@@ -93,9 +96,12 @@
 <a href="https://github.com/rjones18/Terraform-Wordpress-Website-GCP">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Terraform-Wordpress-Website-GCP&theme=react" /> 
  
-  
+</details>  
   
 ---  
+
+<details>
+  <summary>:zap: AWS Cloud Projects</summary>
 
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>AWS Cloud Projects</h1>
 
@@ -116,9 +122,12 @@
 </a>
 <a href="https://github.com/rjones18/AWS-Elasticbeanstalk-Application">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=AWS-Elasticbeanstalk-Application&theme=react" />     
+</details>
 
 ---
   
+<details>
+  <summary>:zap: Azure Cloud Projects</summary>
   
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>Azure Cloud Projects</h1>
 
@@ -136,9 +145,12 @@
 <a href="https://github.com/rjones18/Azure-App-Service-Python-App">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Azure-App-Service-Python-App&theme=react" />  
     
+</details>
 
 ---
 
+<details>
+  <summary>:zap: Other Projects</summary>
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>Other Projects</h1>
   
 </a>  
@@ -160,8 +172,12 @@
 <a href="https://github.com/rjones18/Network-Scanner">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Network-Scanner&theme=react" /> 
 
+</details>
+
 ---
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
@@ -183,3 +199,4 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rjones18&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
+</details>
