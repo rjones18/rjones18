@@ -27,7 +27,7 @@
 
 ---
 
-# Tech Skills 
+# Tech Stack 💻
 <table><tr><td valign="top" width="33%">
 
 ### 👨‍💻Development/Scripting  
@@ -86,111 +86,177 @@
 
 ---
 
-<details>
-  <summary>:zap: GCP Cloud Projects</summary>
-  
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>GCP Cloud Projects</h1>
-  
-</a>  
-<a href="https://github.com/rjones18/GCP-Cloud-Run-Golang-App">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=GCP-Cloud-Run-Golang-App&theme=react" />    
-  
 
-</a>  
-<a href="https://github.com/rjones18/GCP-App-Engine-Pokemon-Flask-App">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=GCP-App-Engine-Pokemon-Flask-App&theme=react" />  
-
-</a>  
-<a href="https://github.com/rjones18/Terraform-Kubernetes-Engine">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Terraform-Kubernetes-Engine&theme=react" />  
-    
- 
- </a>  
-<a href="https://github.com/rjones18/Terraform-Wordpress-Website-GCP">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Terraform-Wordpress-Website-GCP&theme=react" /> 
- 
-</details>  
+  <br />
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Projects</b></td>
+        <td><b>🌟 Stars</b></td>
+        <td><b>🍴 Forks</b></td>
+        <td><b>🐛 Issues</b></td>
+        <td><b>🔔 Pull Requests</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+	      <td><a href="https://github.com/rjones18/GCP-Cloud-Run-Golang-App"><b> 🌦  Automated Cloud Run Golang Weather Application Using Terraform</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/rjones18/rjones18?style=flat-square&label=Stars&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/rjones18/rjones18?style=flat-square&label=Forks&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/rjones18/rjones18?style=flat-square&label=Issues"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rjones18/rjones18?style=flat-square&label=Pull%20Requests"/></td>
+      </tr>
+      <td><a href="https://github.com/rjones18/GCP-App-Engine-Pokemon-Flask-App"><b>🛠 Automated App Engine Python Pokemon Pokedex Application Using CI/CD</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/rjones18/rjones18?style=flat-square&label=Stars&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/rjones18/rjones18?style=flat-square&label=Forks&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/rjones18/rjones18?style=flat-square&label=Issues"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rjones18/rjones18?style=flat-square&label=Pull%20Requests"/></td>
+      <tr>
+	      <td><a href="https://github.com/rjones18/Terraform-Wordpress-Website-GCP"><b>🛠Automated Wordpress Application Terraform, Packer, and Ansible</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/rjones18/rjones18?style=flat-square&label=Stars&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/rjones18/rjones18?style=flat-square&label=Forks&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/rjones18/rjones18?style=flat-square&label=Issues"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rjones18/rjones18?style=flat-square&label=Pull%20Requests"/></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/rjones18/Terraform-Kubernetes-Engine"><b>🛠 Automated Kubernetes Engine Signup App Using Deployment Manager</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/rjones18/rjones18?style=flat-square&label=Stars&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/rjones18/rjones18?style=flat-square&label=Forks&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/rjones18/rjones18?style=flat-square&label=Issues"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rjones18/rjones18?style=flat-square&label=Pull%20Requests"/></td>
+      </tr>
+    </tbody>
+  </table>
+  <br />
   
 ---  
 
-<details>
-  <summary>:zap: AWS Cloud Projects</summary>
 
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>AWS Cloud Projects</h1>
 
-
-</a>  
-<a href="https://github.com/rjones18/Terraform-Wordpress-Website-AWS">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Terraform-Wordpress-Website-AWS&theme=react" /> 
-
-  </a>  
-<a href="https://github.com/rjones18/AWS-CDK-Portfolio-Website">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=AWS-CDK-Portfolio-Website&theme=react" />  
-  
-</a>
-<a href="https://github.com/rjones18/AWS-CDK-Cost-Saving-Lambdas">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=AWS-CDK-Cost-Saving-Lambdas&theme=react" />
-
-
-</a>
-<a href="https://github.com/rjones18/AWS-Elasticbeanstalk-Application">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=AWS-Elasticbeanstalk-Application&theme=react" />     
-</details>
+  <br />
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Projects</b></td>
+        <td><b>🌟 Stars</b></td>
+        <td><b>🍴 Forks</b></td>
+        <td><b>🐛 Issues</b></td>
+        <td><b>🔔 Pull Requests</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+	      <td><a href="https://github.com/rjones18/Terraform-Wordpress-Website-AWS"><b>🛠 Automated Wordpress Application Using Terraform, Packer, and Ansible</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/rjones18/rjones18?style=flat-square&label=Stars&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/rjones18/rjones18?style=flat-square&label=Forks&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/rjones18/rjones18?style=flat-square&label=Issues"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rjones18/rjones18?style=flat-square&label=Pull%20Requests"/></td>
+      </tr>
+      <td><a href="https://github.com/rjones18/AWS-CDK-Portfolio-Website"><b>🛠 Automated Portfolio Website Using the Python CDK </b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/rjones18/rjones18?style=flat-square&label=Stars&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/rjones18/rjones18?style=flat-square&label=Forks&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/rjones18/rjones18?style=flat-square&label=Issues"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rjones18/rjones18?style=flat-square&label=Pull%20Requests"/></td>
+      <tr>
+	      <td><a href="https://github.com/rjones18/AWS-CDK-Cost-Saving-Lambda"><b>💰Automated Cost Saving Lambdas Using Python CDK</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/rjones18/rjones18?style=flat-square&label=Stars&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/rjones18/rjones18?style=flat-square&label=Forks&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/rjones18/rjones18?style=flat-square&label=Issues"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rjones18/rjones18?style=flat-square&label=Pull%20Requests"/></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/rjones18/AWS-Elasticbeanstalk-Application"><b>🛠 Automated Python Signup Application Using EB CLI</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/rjones18/rjones18?style=flat-square&label=Stars&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/rjones18/rjones18?style=flat-square&label=Forks&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/rjones18/rjones18?style=flat-square&label=Issues"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rjones18/rjones18?style=flat-square&label=Pull%20Requests"/></td>
+      </tr>
+    </tbody>
+  </table>
+  <br />
 
 ---
-  
-<details>
-  <summary>:zap: Azure Cloud Projects</summary>
-  
+
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>Azure Cloud Projects</h1>
 
-
-</a>  
-<a href="https://github.com/rjones18/Azure-CDN-Static-Website-Terraform">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Azure-CDN-Static-Website-Terraform&theme=react" /> 
-  
-  
-</a>  
-<a href="https://github.com/rjones18/Terraform-Azure-Kubernetes-Service">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Terraform-Azure-Kubernetes-Service&theme=react" />  
-
-</a>  
-<a href="https://github.com/rjones18/Azure-App-Service-Python-App">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Azure-App-Service-Python-App&theme=react" />  
-    
-</details>
+  <br />
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Projects</b></td>
+        <td><b>🌟 Stars</b></td>
+        <td><b>🍴 Forks</b></td>
+        <td><b>🐛 Issues</b></td>
+        <td><b>🔔 Pull Requests</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+	      <td><a href="https://github.com/rjones18/Azure-CDN-Static-Website-Terraform"><b>🚀 Automated Static Web Application Using Terraform</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/rjones18/rjones18?style=flat-square&label=Stars&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/rjones18/rjones18?style=flat-square&label=Forks&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/rjones18/rjones18?style=flat-square&label=Issues"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rjones18/rjones18?style=flat-square&label=Pull%20Requests"/></td>
+      </tr>
+      <td><a href="https://github.com/rjones18/Azure-App-Service-Python-App"><b>🛠 Automated App Service Python Blog Website Using Azure DevOps</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/rjones18/rjones18?style=flat-square&label=Stars&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/rjones18/rjones18?style=flat-square&label=Forks&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/rjones18/rjones18?style=flat-square&label=Issues"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rjones18/rjones18?style=flat-square&label=Pull%20Requests"/></td>
+      <tr>
+	      <td><a href="https://github.com/rjones18/Terraform-Azure-Kubernetes-Service"><b>🛠Automated AKS Deployment Using Azure DevOps and Terraform</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/rjones18/rjones18?style=flat-square&label=Stars&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/rjones18/rjones18?style=flat-square&label=Forks&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/rjones18/rjones18?style=flat-square&label=Issues"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rjones18/rjones18?style=flat-square&label=Pull%20Requests"/></td>
+      </tr>
+    </tbody>
+  </table>
+  <br />
 
 ---
 
-<details>
-  <summary>:zap: Other Projects</summary>
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>Other Projects</h1>
-  
-</a>  
-<a href="https://github.com/rjones18/Pokemon-Stats-Data-Analysis">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Pokemon-Stats-Data-Analysis&theme=react" />  
 
-  
-</a>  
-<a href="https://github.com/rjones18/Micro-Blog-Application">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Micro-Blog-Application&theme=react" />  
-
-  
-</a>  
-<a href="https://github.com/rjones18/Tell-Me-the-Weather">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Tell-Me-the-Weather&theme=react" />  
-  
-  
-</a>  
-<a href="https://github.com/rjones18/Network-Scanner">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=rjones18&repo=Network-Scanner&theme=react" /> 
-
-</details>
+  <br />
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Projects</b></td>
+        <td><b>🌟 Stars</b></td>
+        <td><b>🍴 Forks</b></td>
+        <td><b>🐛 Issues</b></td>
+        <td><b>🔔 Pull Requests</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+	      <td><a href="https://github.com/rjones18/Pokemon-Stats-Data-Analysis"><b>📊 Pokemon Stats Data Analysis Using Jupyter Notebooks</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/rjones18/rjones18?style=flat-square&label=Stars&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/rjones18/rjones18?style=flat-square&label=Forks&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/rjones18/rjones18?style=flat-square&label=Issues"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rjones18/rjones18?style=flat-square&label=Pull%20Requests"/></td>
+      </tr>
+      <td><a href="https://github.com/rjones18/Micro-Blog-Application"><b>👨🏽‍💻 Python Blog Application Using Heroku and MongoDB</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/rjones18/rjones18?style=flat-square&label=Stars&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/rjones18/rjones18?style=flat-square&label=Forks&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/rjones18/rjones18?style=flat-square&label=Issues"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rjones18/rjones18?style=flat-square&label=Pull%20Requests"/></td>
+      <tr>
+	      <td><a href="https://github.com/rjones18/Tell-Me-the-Weather"><b>👨🏽‍💻Interacting with OpenWeather API using Python</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/rjones18/rjones18?style=flat-square&label=Stars&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/rjones18/rjones18?style=flat-square&label=Forks&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/rjones18/rjones18?style=flat-square&label=Issues"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rjones18/rjones18?style=flat-square&label=Pull%20Requests"/></td>
+      </tr>
+    </tbody>
+  </table>
+  <br />
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>
@@ -212,4 +278,3 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rjones18&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-</details>
