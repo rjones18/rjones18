@@ -5,12 +5,10 @@
 
 ---
 
-<h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me...</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me</h1>
 
 <img align="right" alt="GIF-1" width="440px" height="440px" src="https://github.com/rjones18/Images/blob/main/mario.gif" />
 
-
-## I'm A Husband, Cloud DevOps Engineer, Tech Enthusiast!
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rjones18.rjones18)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/reginald-jones-297093124/)
 - 🎓 Georgia Institute of Technology Cyber/Network Security Bootcamp alum
