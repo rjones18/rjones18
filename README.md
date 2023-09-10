@@ -1,7 +1,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Hello+%F0%9F%91%8B+My+Name+is+Reggie.;I+Am+a+Cloud+DevOps+Engineer.;Feel+Free+to+Get+in+Touch.+%F0%9F%98%84;Nice+to+Meet+You!!!...)](https://github.com/rjones18)
+<p align="center"><img width="100%" src="https://github.com/rjones18/Images/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner%20(1).png" alt="lang image here" /></p>
 
 ---
 
