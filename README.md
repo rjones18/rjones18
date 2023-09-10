@@ -1,20 +1,33 @@
 
-<p align="center"><img width="100%" src="https://github.com/rjones18/Images/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner%20(1).png" alt="lang image here" /></p>
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Hello+%F0%9F%91%8B+My+Name+is+Reggie.;I+Am+a+Cloud+DevOps+Engineer.;Feel+Free+to+Get+in+Touch.+%F0%9F%98%84;Nice+to+Meet+You!!!...)](https://github.com/rjones18)
+
+---
+
+<h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me...</h1>
+
+<img align="right" alt="GIF-1" width="440px" height="440px" src="https://github.com/rjones18/Images/blob/main/mario.gif" />
+
+
+## I'm A Husband, Cloud DevOps Engineer, Tech Enthusiast!
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rjones18.rjones18)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/reginald-jones-297093124/)
-
 - 🎓 Georgia Institute of Technology Cyber/Network Security Bootcamp alum
 - 🎓 General Assembly Python Programming Bootcamp alum
 - 🥅 2023 Goals: Learn GCP and Kubernetes!
 - ⚡ Fun fact: I love working out!
 
+
 ---
 
-# Skills 
+## Spotify Playing 🎧
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=l896cnreptmbkpucr7kteejwh&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=l896cnreptmbkpucr7kteejwh&redirect=true)
+
+---
+
+# Tech Skills 
 <table><tr><td valign="top" width="33%">
 
 ### 👨‍💻Development/Scripting  
