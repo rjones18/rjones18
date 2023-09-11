@@ -204,7 +204,7 @@
         <td><img alt="Issues" src="https://img.shields.io/github/issues/rjones18/rjones18?style=flat-square&label=Issues"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rjones18/rjones18?style=flat-square&label=Pull%20Requests"/></td>
       <tr>
-	      <td><a href="https://github.com/rjones18/Terraform-Azure-Kubernetes-Service"><b>🛠Automated AKS Deployment Using Azure DevOps and Terraform</b></a></td>
+	      <td><a href="https://github.com/rjones18/Azure-Kubernetes-Application"><b>🛠Automated AKS Deployment Using GitHub Actions and Terraform</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/rjones18/rjones18?style=flat-square&label=Stars&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/rjones18/rjones18?style=flat-square&label=Forks&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/rjones18/rjones18?style=flat-square&label=Issues"/></td>
