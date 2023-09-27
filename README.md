@@ -183,7 +183,7 @@
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rjones18/rjones18?style=flat-square&label=Pull%20Requests"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/rjones18/AWS-Elasticbeanstalk-Application"><b>🛠 Automated Python Signup Application Using EB CLI</b></a></td>
+	      <td><a href="https://github.com/rjones18/AWS-App-Runner-Python-Signup-Application"><b>🛠 Automated Python Signup Application Using Terraform and GitLab CI/CD</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/rjones18/rjones18?style=flat-square&label=Stars&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/rjones18/rjones18?style=flat-square&label=Forks&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/rjones18/rjones18?style=flat-square&label=Issues"/></td>
