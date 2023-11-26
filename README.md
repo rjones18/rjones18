@@ -45,7 +45,7 @@
 
 
 
-### 🚀 DevOps and CI/CD  
+### 🚀 Cloud, DevOps, and CI/CD  
 <div align="center">  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="googlecloud" width="50" height="50" />
@@ -58,6 +58,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="50" height="50" />  
 <img src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" alt="devops" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg" alt="vagrant" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="50" height="50" />
 </div>
 
 </td><td valign="top" width="33%">
