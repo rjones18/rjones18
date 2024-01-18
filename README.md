@@ -13,7 +13,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/reginald-jones-297093124/)
 - 🎓 Georgia Institute of Technology Cyber/Network Security Bootcamp alum
 - 🎓 General Assembly Python Programming Bootcamp alum
-- 🥅 2023 Goals: Learn GCP and Kubernetes!
+- 🥅 2024 Goals: Keep Learning Kubernetes and Golang!!
 - ⚡ Fun fact: I love working out!
 
 
