@@ -85,6 +85,59 @@
 <br/>
 
 ---
+<h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>Kubernetes Projects</h1>
+
+  <br />
+  <table>
+    <thead align="center">
+      <tr border: none;>
+        <td><b>💻 Projects</b></td>
+        <td><b>🌟 Stars</b></td>
+        <td><b>🍴 Forks</b></td>
+        <td><b>🐛 Issues</b></td>
+        <td><b>🔔 Pull Requests</b></td>
+      </tr>
+    </thead>
+    <tbody>
+        <tr>
+	      <td><a href="https://github.com/rjones18/GCP-GKE-Pokemon-App"><b>🚀 Automated Pokemon Pokedex Application on Google Kubernetes Engine Using Terraform and Kubectl</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/rjones18/rjones18?style=flat-square&label=Stars&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/rjones18/rjones18?style=flat-square&label=Forks&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/rjones18/rjones18?style=flat-square&label=Issues"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rjones18/rjones18?style=flat-square&label=Pull%20Requests"/></td>
+      </tr> 
+	      <tr>
+	      <td><a href="https://github.com/rjones18/Azure-Kubernetes-Application"><b>🚀Automated Azure Kubernetes Service Deployment Using GitHub Actions and Terraform</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/rjones18/rjones18?style=flat-square&label=Stars&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/rjones18/rjones18?style=flat-square&label=Forks&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/rjones18/rjones18?style=flat-square&label=Issues"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rjones18/rjones18?style=flat-square&label=Pull%20Requests"/></td>
+      </tr>
+        <tr>
+	      <td><a href="https://github.com/rjones18/AWS-Kubernetes-Cluster-Pipeline"><b>⚓ Automated Kubernetes Cluster Setup on Amazon Web Services Using Ansible and Bash Scripts</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/rjones18/rjones18?style=flat-square&label=Stars&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/rjones18/rjones18?style=flat-square&label=Forks&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/rjones18/rjones18?style=flat-square&label=Issues"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rjones18/rjones18?style=flat-square&label=Pull%20Requests"/></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/rjones18/GCP-Kubernetes-Cluster-Playground"><b>⚓ Automated Kubernetes Cluster Setup on Google Cloud Platform Using Bash Scripts</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/rjones18/rjones18?style=flat-square&label=Stars&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/rjones18/rjones18?style=flat-square&label=Forks&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/rjones18/rjones18?style=flat-square&label=Issues"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rjones18/rjones18?style=flat-square&label=Pull%20Requests"/></td>
+      </tr>
+            <td><a href="https://github.com/rjones18/Azure-Kubernetes-Cluster-Pipeline"><b>⚓ Automated Kubernetes Cluster Setup on Microsoft Azure Using Bash Scripts</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/rjones18/rjones18?style=flat-square&label=Stars&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/rjones18/rjones18?style=flat-square&label=Forks&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/rjones18/rjones18?style=flat-square&label=Issues"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rjones18/rjones18?style=flat-square&label=Pull%20Requests"/></td>
+      <tr>
+    </tbody>
+  </table>
+  <br />
+
+---
 
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>GCP Cloud Projects</h1>
 
@@ -207,60 +260,6 @@
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rjones18/rjones18?style=flat-square&label=Pull%20Requests"/></td>
       <tr>
       </tr>
-    </tbody>
-  </table>
-  <br />
-
----
-
-<h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>Kubernetes Projects</h1>
-
-  <br />
-  <table>
-    <thead align="center">
-      <tr border: none;>
-        <td><b>💻 Projects</b></td>
-        <td><b>🌟 Stars</b></td>
-        <td><b>🍴 Forks</b></td>
-        <td><b>🐛 Issues</b></td>
-        <td><b>🔔 Pull Requests</b></td>
-      </tr>
-    </thead>
-    <tbody>
-        <tr>
-	      <td><a href="https://github.com/rjones18/GCP-GKE-Pokemon-App"><b>🚀 Automated Pokemon Pokedex Application on Google Kubernetes Engine Using Terraform and Kubectl</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/rjones18/rjones18?style=flat-square&label=Stars&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/rjones18/rjones18?style=flat-square&label=Forks&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/rjones18/rjones18?style=flat-square&label=Issues"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rjones18/rjones18?style=flat-square&label=Pull%20Requests"/></td>
-      </tr> 
-	      <tr>
-	      <td><a href="https://github.com/rjones18/Azure-Kubernetes-Application"><b>🚀Automated Azure Kubernetes Service Deployment Using GitHub Actions and Terraform</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/rjones18/rjones18?style=flat-square&label=Stars&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/rjones18/rjones18?style=flat-square&label=Forks&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/rjones18/rjones18?style=flat-square&label=Issues"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rjones18/rjones18?style=flat-square&label=Pull%20Requests"/></td>
-      </tr>
-        <tr>
-	      <td><a href="https://github.com/rjones18/AWS-Kubernetes-Cluster-Pipeline"><b>⚓ Automated Kubernetes Cluster Setup on Amazon Web Services Using Ansible and Bash Scripts</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/rjones18/rjones18?style=flat-square&label=Stars&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/rjones18/rjones18?style=flat-square&label=Forks&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/rjones18/rjones18?style=flat-square&label=Issues"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rjones18/rjones18?style=flat-square&label=Pull%20Requests"/></td>
-      </tr>
-      <tr>
-	      <td><a href="https://github.com/rjones18/GCP-Kubernetes-Cluster-Playground"><b>⚓ Automated Kubernetes Cluster Setup on Google Cloud Platform Using Bash Scripts</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/rjones18/rjones18?style=flat-square&label=Stars&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/rjones18/rjones18?style=flat-square&label=Forks&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/rjones18/rjones18?style=flat-square&label=Issues"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rjones18/rjones18?style=flat-square&label=Pull%20Requests"/></td>
-      </tr>
-            <td><a href="https://github.com/rjones18/Azure-Kubernetes-Cluster-Pipeline"><b>⚓ Automated Kubernetes Cluster Setup on Microsoft Azure Using Bash Scripts</b></a></td>
-        <td><img alt="Stars" src="https://img.shields.io/github/stars/rjones18/rjones18?style=flat-square&label=Stars&labelColor=343b41"/></td>
-        <td><img alt="Forks" src="https://img.shields.io/github/forks/rjones18/rjones18?style=flat-square&label=Forks&labelColor=343b41"/></td>
-        <td><img alt="Issues" src="https://img.shields.io/github/issues/rjones18/rjones18?style=flat-square&label=Issues"/></td>
-        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rjones18/rjones18?style=flat-square&label=Pull%20Requests"/></td>
-      <tr>
     </tbody>
   </table>
   <br />
