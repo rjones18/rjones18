@@ -114,6 +114,13 @@
         <td><img alt="Issues" src="https://img.shields.io/github/issues/rjones18/rjones18?style=flat-square&label=Issues"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rjones18/rjones18?style=flat-square&label=Pull%20Requests"/></td>
       </tr>
+	      <tr>
+	      <td><a href="https://github.com/rjones18/AWS-EKS-Python-Pokemon-Pokedex-App"><b>🚀Automated Pokemon Pokedex Application on Elastic Kuberenetes Service Using eksctl and Kustomize </b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/rjones18/rjones18?style=flat-square&label=Stars&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/rjones18/rjones18?style=flat-square&label=Forks&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/rjones18/rjones18?style=flat-square&label=Issues"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rjones18/rjones18?style=flat-square&label=Pull%20Requests"/></td>
+      </tr>
         <tr>
 	      <td><a href="https://github.com/rjones18/AWS-Kubernetes-Cluster-Pipeline"><b>⚓ Automated Kubernetes Cluster Setup on Amazon Web Services Using Ansible and Bash Scripts</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/rjones18/rjones18?style=flat-square&label=Stars&labelColor=343b41"/></td>
