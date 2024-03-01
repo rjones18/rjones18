@@ -102,6 +102,13 @@
       </tr>
     </thead>
     <tbody>
+         <tr>
+	      <td><a href="https://github.com/rjones18/GCP-RKE2-Cluster"><b>🚚 Automated RKE2 Kubernetes Cluster Setup on Google Cloud Platform Using Bash Scripts</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/rjones18/rjones18?style=flat-square&label=Stars&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/rjones18/rjones18?style=flat-square&label=Forks&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/rjones18/rjones18?style=flat-square&label=Issues"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/rjones18/rjones18?style=flat-square&label=Pull%20Requests"/></td>
+      </tr> 
              <tr>
 	      <td><a href="https://github.com/rjones18/Zarf-DOS-App-K3D"><b>🐋  Deploy Zarf Package onto K3D Kubernetes Cluster Running on a Rasberry Pi 4</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/rjones18/rjones18?style=flat-square&label=Stars&labelColor=343b41"/></td>
