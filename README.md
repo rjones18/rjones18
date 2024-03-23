@@ -1,10 +1,5 @@
 
 
-
-<p align="center"><img width="100%" src="https://github.com/rjones18/Images/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner%20(1).png" alt="lang image here" /></p>
-
----
-
 <h1 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> About Me</h1>
 
 <img align="right" alt="GIF-1" width="340px" height="340px" src="https://github.com/rjones18/Images/blob/main/mario.gif" />
