@@ -2,7 +2,7 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> About Me</h1>
 
-<img align="right" alt="GIF-1" width="230px" height="230px" src="https://github.com/rjones18/Images/blob/main/mario.gif" />
+<img align="right" alt="GIF-1" width="220px" height="220px" src="https://github.com/rjones18/Images/blob/main/mario.gif" />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=rjones18.rjones18)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/reginald-jones-297093124/)
