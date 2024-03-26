@@ -80,7 +80,22 @@
 
 <br/>
 
+---
 
+<h2 align="center">🏆 Certifications 🏆</h2>
+<img src="https://github.com/rjones18/rjones18/assets/64709385/1dd38696-d573-46f0-95d1-c5c97ded51ce" width="100" height="100">
+<img src="https://github.com/rjones18/rjones18/assets/64709385/396f7f41-1bcd-4c15-ae5c-febecfe9b037" width="100" height="100">
+<img src="https://github.com/rjones18/rjones18/assets/64709385/1268b257-0a0c-4f6b-9937-7734a00bd15f" width="100" height="100">
+<img src="https://github.com/rjones18/rjones18/assets/64709385/9fa07bee-3186-413f-a606-65729d41eaec" width="100" height="100">
+<img src="https://github.com/rjones18/rjones18/assets/64709385/2123955c-a267-4d8c-8e34-e35c76bf9433" width="100" height="100">
+<img src="https://github.com/rjones18/rjones18/assets/64709385/9f631105-815c-48f7-bc69-a80264a7697d" width="100" height="100">
+<img src="https://github.com/rjones18/rjones18/assets/64709385/4661f6ac-f365-4863-ac36-06c9153ca020" width="100" height="100">
+<img src="https://github.com/rjones18/rjones18/assets/64709385/81928df1-6355-4f9b-a284-8e5590b776d6" width="100" height="100">
+<img src="https://github.com/rjones18/rjones18/assets/64709385/c5c3c934-1c51-407f-af99-e3ec5251fea9" width="100" height="100">
+<img src="https://github.com/rjones18/rjones18/assets/64709385/3a9ea3a0-5e08-4a32-bb03-4c9af8e5d42b" width="100" height="100">
+<img src="https://github.com/rjones18/rjones18/assets/64709385/49519f46-127d-4c1c-a8a0-bdb00a8cdec4" width="100" height="100">
+<img src="https://github.com/rjones18/rjones18/assets/64709385/6d731d33-2a3b-4435-959d-7a75ebcc3da7" width="100" height="100">
+<img src="https://github.com/rjones18/rjones18/assets/64709385/d21a3ce1-c5b3-4746-90f5-07d9374095b2" width="100" height="100">
 
 ---
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>Kubernetes Projects</h1>
@@ -328,23 +343,6 @@
     </tbody>
   </table>
   <br />
-
----
-
-<h2 align="center">🏆 Certifications 🏆</h2>
-<img src="https://github.com/rjones18/rjones18/assets/64709385/1dd38696-d573-46f0-95d1-c5c97ded51ce" width="100" height="100">
-<img src="https://github.com/rjones18/rjones18/assets/64709385/396f7f41-1bcd-4c15-ae5c-febecfe9b037" width="100" height="100">
-<img src="https://github.com/rjones18/rjones18/assets/64709385/1268b257-0a0c-4f6b-9937-7734a00bd15f" width="100" height="100">
-<img src="https://github.com/rjones18/rjones18/assets/64709385/9fa07bee-3186-413f-a606-65729d41eaec" width="100" height="100">
-<img src="https://github.com/rjones18/rjones18/assets/64709385/2123955c-a267-4d8c-8e34-e35c76bf9433" width="100" height="100">
-<img src="https://github.com/rjones18/rjones18/assets/64709385/9f631105-815c-48f7-bc69-a80264a7697d" width="100" height="100">
-<img src="https://github.com/rjones18/rjones18/assets/64709385/4661f6ac-f365-4863-ac36-06c9153ca020" width="100" height="100">
-<img src="https://github.com/rjones18/rjones18/assets/64709385/81928df1-6355-4f9b-a284-8e5590b776d6" width="100" height="100">
-<img src="https://github.com/rjones18/rjones18/assets/64709385/c5c3c934-1c51-407f-af99-e3ec5251fea9" width="100" height="100">
-<img src="https://github.com/rjones18/rjones18/assets/64709385/3a9ea3a0-5e08-4a32-bb03-4c9af8e5d42b" width="100" height="100">
-<img src="https://github.com/rjones18/rjones18/assets/64709385/49519f46-127d-4c1c-a8a0-bdb00a8cdec4" width="100" height="100">
-<img src="https://github.com/rjones18/rjones18/assets/64709385/6d731d33-2a3b-4435-959d-7a75ebcc3da7" width="100" height="100">
-<img src="https://github.com/rjones18/rjones18/assets/64709385/d21a3ce1-c5b3-4746-90f5-07d9374095b2" width="100" height="100">
 
 ---
 
