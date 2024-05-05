@@ -84,6 +84,7 @@ Spotify Playing 🎧
 ---
 
 <h2 align="center">🏆 Certifications 🏆</h2>
+
 <img src="https://github.com/rjones18/rjones18/assets/64709385/1dd38696-d573-46f0-95d1-c5c97ded51ce" width="100" height="100">
 <img src="https://github.com/rjones18/rjones18/assets/64709385/396f7f41-1bcd-4c15-ae5c-febecfe9b037" width="100" height="100">
 <img src="https://github.com/rjones18/rjones18/assets/64709385/1268b257-0a0c-4f6b-9937-7734a00bd15f" width="100" height="100">
@@ -97,6 +98,8 @@ Spotify Playing 🎧
 <img src="https://github.com/rjones18/rjones18/assets/64709385/49519f46-127d-4c1c-a8a0-bdb00a8cdec4" width="100" height="100">
 <img src="https://github.com/rjones18/rjones18/assets/64709385/6d731d33-2a3b-4435-959d-7a75ebcc3da7" width="100" height="100">
 <img src="https://github.com/rjones18/rjones18/assets/64709385/d21a3ce1-c5b3-4746-90f5-07d9374095b2" width="100" height="100">
+<img src="https://github.com/rjones18/rjones18/assets/64709385/e4eea197-1d30-4e5a-b5c7-244a789b1d6a" width="100" height="100">
+
 
 ---
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>Kubernetes Projects</h1>
