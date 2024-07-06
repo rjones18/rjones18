@@ -99,7 +99,7 @@ Spotify Playing 🎧
 <img src="https://github.com/rjones18/rjones18/assets/64709385/6d731d33-2a3b-4435-959d-7a75ebcc3da7" width="100" height="100">
 <img src="https://github.com/rjones18/rjones18/assets/64709385/d21a3ce1-c5b3-4746-90f5-07d9374095b2" width="100" height="100">
 <img src="https://github.com/rjones18/rjones18/assets/64709385/e4eea197-1d30-4e5a-b5c7-244a789b1d6a" width="100" height="100">
-
+<img src="https://github.com/rjones18/rjones18/assets/64709385/8272c31e-fcde-4fba-b104-40fcbeb17512" width="100" height="100">
 
 ---
 
