@@ -8,7 +8,7 @@
 
 - 🎓 Georgia Institute of Technology Cyber/Network Security Bootcamp alum
 - 🎓 General Assembly Python Programming Bootcamp alum
-- 🥅 2024 Goals: Keep Learning Kubernetes and Golang!!
+- 🥅 2025 Goals: Learn AI!!
 - ⚡ Fun fact: I love working out!
 
 
