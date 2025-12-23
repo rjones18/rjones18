@@ -56,7 +56,8 @@ These repos best represent how I build: **design → automate → deploy → obs
 
 ## Tech stack (what I use often)
 **Languages**: Python, Bash, Go  
-**Cloud**: AWS (primary), GCP, Azure  
+**Cloud**: AWS (primary), GCP, Azure
+**AWS (Infra focus)**: VPC, IAM, EC2, ECS/EKS, **RDS/Aurora**, **DMS**, CloudWatch, KMS, Secrets Manager
 **IaC**: Terraform, Packer, AWS CDK  
 **Containers**: Docker, Kubernetes, Helm, Kustomize  
 **Automation/CI**: GitHub, GitLab, CircleCI CI/CD, Ansible  
