@@ -6,7 +6,7 @@
 <h1 align="center">Reggie Jones</h1>
 
 <p align="center">
-  Senior DevOps / CloudOps Engineer • AWS • Automation • IaC • Containers • Reliability
+  Senior DevOps / CloudOps Engineer • AWS • Automation • IaC • Containers • Databases • Reliability
 </p>
 
 <p align="center">
