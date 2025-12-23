@@ -61,8 +61,6 @@ These repos best represent how I build: **design → automate → deploy → obs
 **Automation/CI**: GitHub, GitLab CI/CD, Ansible  
 **OS**: Linux (primary), Windows
 
-> I prefer proving skills via well-documented repos, tests, and repeatable deployments—not tool lists.
-
 ---
 
 ## Certifications
