@@ -20,12 +20,23 @@
 I build and operate **reliable cloud platforms** with a focus on **automation, infrastructure-as-code, and containerized workloads**.  
 I enjoy turning manual runbooks into repeatable systems, improving observability, and making deployments easier.
 
-**Current focus**
-- **CloudOps & SRE fundamentals**: monitoring, incident response, cost/perf optimization
-- **Automation**: Python + Bash, event-driven workflows
-- **IaC**: Terraform modules, reusable patterns, secure defaults
-- **Containers**: Docker + Kubernetes (EKS/GKE/AKS), Helm/Kustomize
-- **AWS (Infra focus)**: VPC, IAM, EC2, ECS/EKS, **RDS/Aurora**, **DMS**, CloudWatch, KMS, Secrets Manager
+## Tech stack (what I use often)
+**Languages**: Python, Bash, Go  
+**Cloud**: AWS (primary), GCP, Azure
+**IaC**: Terraform, Packer, AWS CDK  
+**Containers**: Docker, Kubernetes, Helm, Kustomize  
+**Automation/CI**: GitHub, GitLab, CircleCI CI/CD, Ansible  
+**OS**: Linux (primary), Windows
+
+
+## AWS Infrastructure Modules (Terraform)
+I build reusable Terraform modules with opinionated, secure defaults and examples that are easy to deploy.
+
+- **Databases**: RDS, Aurora (encryption, backups, Multi-AZ, monitoring)
+- **Networking**: VPC, subnets, endpoints
+- **Compute**: ECS/EKS/EC2 patterns
+- **Observability**: alarms, logs, dashboards
+---
 
 **Background**
 - 🎓 Georgia Tech Cyber/Network Security Bootcamp alum  
@@ -51,17 +62,6 @@ These repos best represent how I build: **design → automate → deploy → obs
 
 - **AWS CDK Cost-Saving Lambdas** — ops automation with Python CDK  
   https://github.com/rjones18/AWS-CDK-Cost-Saving-Lambdas
-
----
-
-## Tech stack (what I use often)
-**Languages**: Python, Bash, Go  
-**Cloud**: AWS (primary), GCP, Azure
-**AWS (Infra focus)**: VPC, IAM, EC2, ECS/EKS, **RDS/Aurora**, **DMS**, CloudWatch, KMS, Secrets Manager
-**IaC**: Terraform, Packer, AWS CDK  
-**Containers**: Docker, Kubernetes, Helm, Kustomize  
-**Automation/CI**: GitHub, GitLab, CircleCI CI/CD, Ansible  
-**OS**: Linux (primary), Windows
 
 ---
 
