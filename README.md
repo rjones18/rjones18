@@ -22,12 +22,18 @@ I enjoy turning manual runbooks into repeatable systems, improving observability
 
 ## Tech stack
 **Languages**: Python, Bash, Go 
+
 **Cloud**: AWS (primary), GCP, Azure
+
 **IaC**: Terraform, Packer, AWS CDK  
+
 **Containers**: Docker, Kubernetes, Helm, Kustomize  
+
 **Automation/CI**: GitHub, GitLab, CircleCI CI/CD, Ansible  
+
 **OS**: Linux (primary), Windows
 
+---
 
 ## AWS Infrastructure Modules (Terraform)
 I build reusable Terraform modules with opinionated, secure defaults and examples that are easy to deploy.
