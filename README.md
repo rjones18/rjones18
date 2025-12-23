@@ -25,6 +25,7 @@ I enjoy turning manual runbooks into repeatable systems, improving observability
 - **Automation**: Python + Bash, event-driven workflows
 - **IaC**: Terraform modules, reusable patterns, secure defaults
 - **Containers**: Docker + Kubernetes (EKS/GKE/AKS), Helm/Kustomize
+- **AWS (Infra focus)**: VPC, IAM, EC2, ECS/EKS, **RDS/Aurora**, **DMS**, CloudWatch, KMS, Secrets Manager
 
 **Background**
 - 🎓 Georgia Tech Cyber/Network Security Bootcamp alum  
