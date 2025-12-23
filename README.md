@@ -20,8 +20,8 @@
 I build and operate **reliable cloud platforms** with a focus on **automation, infrastructure-as-code, and containerized workloads**.  
 I enjoy turning manual runbooks into repeatable systems, improving observability, and making deployments easier.
 
-## Tech stack (what I use often)
-**Languages**: Python, Bash, Go  
+## Tech stack
+**Languages**: Python, Bash, Go 
 **Cloud**: AWS (primary), GCP, Azure
 **IaC**: Terraform, Packer, AWS CDK  
 **Containers**: Docker, Kubernetes, Helm, Kustomize  
