@@ -75,6 +75,8 @@ These repos best represent how I build: **design → automate → deploy → obs
 <p>
   <img src="https://github.com/rjones18/rjones18/assets/64709385/396f7f41-1bcd-4c15-ae5c-febecfe9b037" width="90" height="90" />
   <img src="https://github.com/rjones18/rjones18/assets/64709385/1268b257-0a0c-4f6b-9937-7734a00bd15f" width="90" height="90" />
+  <img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/96204c3f-368d-4dd4-b9cd-19d0c3285c07" />
+
   <img src="https://github.com/rjones18/rjones18/assets/64709385/9f631105-815c-48f7-bc69-a80264a7697d" width="90" height="90" />
   <img src="https://github.com/rjones18/rjones18/assets/64709385/c5c3c934-1c51-407f-af99-e3ec5251fea9" width="90" height="90" />
   <img src="https://github.com/rjones18/rjones18/assets/64709385/3a9ea3a0-5e08-4a32-bb03-4c9af8e5d42b" width="90" height="90" />
