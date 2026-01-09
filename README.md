@@ -20,7 +20,7 @@
 I build and operate **reliable cloud platforms** with a focus on **automation, infrastructure-as-code, and containerized workloads**.  
 I enjoy turning manual runbooks into repeatable systems, improving observability, and enabling teams to deploy faster and safer.
 
-My background spans **AWS-first production systems**, with hands-on experience across **Azure and GCP**, and a growing focus on **platform engineering and multi-cloud architecture**.
+My experience is **AWS-first in production**, with hands-on work across **Azure and GCP**, and a growing focus on **platform engineering and multi-cloud environments**.
 
 ---
 
@@ -41,67 +41,40 @@ My background spans **AWS-first production systems**, with hands-on experience a
 
 ## Terraform Modules (Multi-Cloud)
 
-I build **production-ready, reusable Terraform modules** with opinionated defaults, security best practices,
-and clear examples. These modules are designed to support **platform teams** and **multi-cloud environments**.
+I build **reusable, production-focused Terraform modules** with clear inputs, sensible defaults,
+and examples designed for real-world infrastructure usage.
 
 ---
 
-### ☁️ AWS Terraform Modules (Available)
+### ☁️ AWS Terraform Modules
 
-Reusable modules built and validated against real production patterns.
+These modules are published and maintained as standalone repositories.
 
-- **Networking**
-  - VPC (multi-AZ, NAT, endpoints)
-  - Private & public subnet layouts
-  - VPC endpoints (SSM, S3, ECR, STS)
+- **VPC Terraform Module**  
+  Networking foundations with support for multi-AZ designs, subnets, and routing.  
+  https://github.com/rjones18/AWS-VPC-TERRAFORM-MODULE
 
-- **Compute**
-  - EC2 baseline patterns
-  - ECS (EC2 & Fargate)
-  - EKS cluster foundations
+- **EKS Terraform Module**  
+  Kubernetes cluster foundations on AWS with opinionated defaults.  
+  https://github.com/rjones18/AWS-EKS-TERRAFORM-MODULE
 
-- **Databases**
-  - RDS & Aurora (encryption, backups, Multi-AZ, monitoring)
+- **ECS Terraform Module**  
+  ECS cluster and service patterns for containerized workloads.  
+  https://github.com/rjones18/AWS-ECS-TERRAFORM-MODULE
 
-- **Security & IAM**
-  - IAM roles & policies
-  - Cross-account access patterns
-  - Least-privilege defaults
-
-- **Observability**
-  - CloudWatch alarms
-  - Logs & metrics foundations
-
-> 🔗 Modules are published across my AWS Terraform repositories  
-> (see AWS projects below)
+- **App Runner Terraform Module**  
+  Simplified deployment of containerized applications using AWS App Runner.  
+  https://github.com/rjones18/AWS-APPRUNNER-TERRAFORM-MODULE
 
 ---
 
-### ☁️ GCP Terraform Modules (Coming Soon 🚧)
-
-Planned modules focused on **cloud-native, minimal-friction GCP deployments**.
-
-- VPC & subnet design
-- GKE cluster foundations
-- Cloud Run service patterns
-- IAM & service accounts
-- Logging & monitoring baselines
-
-> 📌 Roadmap: modularizing patterns from existing GKE & Cloud Run projects
+### ☁️ GCP Terraform Modules
+_(none published yet)_
 
 ---
 
-### ☁️ Microsoft Azure Terraform Modules (Coming Soon 🚧)
-
-Enterprise-ready Azure modules aligned with **AKS, networking, and governance**.
-
-- Virtual Networks (VNets, subnets, NSGs)
-- AKS cluster foundations
-- Managed identities & RBAC
-- Private Endpoints
-- Azure Monitor & Log Analytics
-
-> 📌 Roadmap: extracting reusable modules from AKS and App Service platforms
+### ☁️ Microsoft Azure Terraform Modules
+_(none published yet)_
 
 ---
 
@@ -186,5 +159,4 @@ These repositories best represent how I build: **design → automate → deploy 
 
 ## Fun
 Spotify Playing 🎧  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=l896cnreptmbkpucr7kteejwh&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=l896cnreptmbkpucr7kteejwh&redirect=true)
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=l896cnreptmbkpucr7kteejwh&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=l896cnreptmbkpucr)_)]()
