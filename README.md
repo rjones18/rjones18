@@ -6,7 +6,7 @@
 <h1 align="center">Reggie Jones</h1>
 
 <p align="center">
-  Senior DevOps / CloudOps Engineer • AWS • Automation • IaC • Containers • Databases • Reliability
+  Senior DevOps / CloudOps Engineer • AWS • Azure • GCP • Automation • IaC • Containers • Reliability
 </p>
 
 <p align="center">
@@ -18,41 +18,95 @@
 
 ## About me
 I build and operate **reliable cloud platforms** with a focus on **automation, infrastructure-as-code, and containerized workloads**.  
-I enjoy turning manual runbooks into repeatable systems, improving observability, and making deployments easier.
+I enjoy turning manual runbooks into repeatable systems, improving observability, and enabling teams to deploy faster and safer.
+
+My background spans **AWS-first production systems**, with hands-on experience across **Azure and GCP**, and a growing focus on **platform engineering and multi-cloud architecture**.
+
+---
 
 ## Tech stack
-**Languages**: Python, Bash, Go 
+**Languages**: Python, Bash, Go  
 
-**Cloud**: AWS (primary), GCP, Azure
+**Cloud**: AWS (primary), Azure, GCP  
 
 **IaC**: Terraform, Packer, AWS CDK  
 
 **Containers**: Docker, Kubernetes, Helm, Kustomize  
 
-**Automation/CI**: GitHub, GitLab, CircleCI CI/CD, Ansible  
+**Automation / CI**: GitHub Actions, GitLab CI, CircleCI, Ansible  
 
-**OS**: Linux (primary), Windows
+**OS**: Linux (primary), Windows  
 
 ---
 
-## AWS Infrastructure Modules (Terraform)
-I build reusable Terraform modules with opinionated, secure defaults and examples that are easy to deploy.
+## Terraform Modules (Multi-Cloud)
 
-- **Databases**: RDS, Aurora (encryption, backups, Multi-AZ, monitoring)
-- **Networking**: VPC, subnets, endpoints
-- **Compute**: ECS/EKS/EC2 patterns
-- **Observability**: alarms, logs, dashboards
+I build **production-ready, reusable Terraform modules** with opinionated defaults, security best practices,
+and clear examples. These modules are designed to support **platform teams** and **multi-cloud environments**.
+
 ---
 
-**Background**
-- 🎓 Georgia Tech Cyber/Network Security Bootcamp alum  
-- 🎓 General Assembly Python Programming Bootcamp alum  
-- 🏋🏾 Fun fact: The gym is my playground
+### ☁️ AWS Terraform Modules (Available)
+
+Reusable modules built and validated against real production patterns.
+
+- **Networking**
+  - VPC (multi-AZ, NAT, endpoints)
+  - Private & public subnet layouts
+  - VPC endpoints (SSM, S3, ECR, STS)
+
+- **Compute**
+  - EC2 baseline patterns
+  - ECS (EC2 & Fargate)
+  - EKS cluster foundations
+
+- **Databases**
+  - RDS & Aurora (encryption, backups, Multi-AZ, monitoring)
+
+- **Security & IAM**
+  - IAM roles & policies
+  - Cross-account access patterns
+  - Least-privilege defaults
+
+- **Observability**
+  - CloudWatch alarms
+  - Logs & metrics foundations
+
+> 🔗 Modules are published across my AWS Terraform repositories  
+> (see AWS projects below)
+
+---
+
+### ☁️ GCP Terraform Modules (Coming Soon 🚧)
+
+Planned modules focused on **cloud-native, minimal-friction GCP deployments**.
+
+- VPC & subnet design
+- GKE cluster foundations
+- Cloud Run service patterns
+- IAM & service accounts
+- Logging & monitoring baselines
+
+> 📌 Roadmap: modularizing patterns from existing GKE & Cloud Run projects
+
+---
+
+### ☁️ Microsoft Azure Terraform Modules (Coming Soon 🚧)
+
+Enterprise-ready Azure modules aligned with **AKS, networking, and governance**.
+
+- Virtual Networks (VNets, subnets, NSGs)
+- AKS cluster foundations
+- Managed identities & RBAC
+- Private Endpoints
+- Azure Monitor & Log Analytics
+
+> 📌 Roadmap: extracting reusable modules from AKS and App Service platforms
 
 ---
 
 ## Featured work (start here)
-These repos best represent how I build: **design → automate → deploy → observe**.
+These repositories best represent how I build: **design → automate → deploy → observe**.
 
 - **AWS EKS Pokémon Pokedex App** — EKS + automation + Kubernetes manifests  
   https://github.com/rjones18/AWS-EKS-Python-Pokemon-Pokedex-App
@@ -63,29 +117,11 @@ These repos best represent how I build: **design → automate → deploy → obs
 - **AKS Pokémon App** — Terraform + Helm, Azure flavor of the same platform concerns  
   https://github.com/rjones18/Pokemon-Azure-AKS-Cluster
 
-- **AWS Kubernetes Cluster Pipeline** — infra automation for cluster setup  
+- **AWS Kubernetes Cluster Pipeline** — Infrastructure automation for cluster setup  
   https://github.com/rjones18/AWS-Kubernetes-Cluster-Pipeline
 
-- **AWS CDK Cost-Saving Lambdas** — ops automation with Python CDK  
+- **AWS CDK Cost-Saving Lambdas** — Ops automation with Python CDK  
   https://github.com/rjones18/AWS-CDK-Cost-Saving-Lambdas
-
----
-
-## Certifications
-<p>
-  <img src="https://github.com/rjones18/rjones18/assets/64709385/396f7f41-1bcd-4c15-ae5c-febecfe9b037" width="90" height="90" />
-  <img src="https://github.com/rjones18/rjones18/assets/64709385/1268b257-0a0c-4f6b-9937-7734a00bd15f" width="90" height="90" />
-  <img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/96204c3f-368d-4dd4-b9cd-19d0c3285c07" />
-
-  <img src="https://github.com/rjones18/rjones18/assets/64709385/9f631105-815c-48f7-bc69-a80264a7697d" width="90" height="90" />
-  <img src="https://github.com/rjones18/rjones18/assets/64709385/c5c3c934-1c51-407f-af99-e3ec5251fea9" width="90" height="90" />
-  <img src="https://github.com/rjones18/rjones18/assets/64709385/3a9ea3a0-5e08-4a32-bb03-4c9af8e5d42b" width="90" height="90" />
-  <img src="https://github.com/rjones18/rjones18/assets/64709385/49519f46-127d-4c1c-a8a0-bdb00a8cdec4" width="90" height="90" />
-  <img src="https://github.com/rjones18/rjones18/assets/64709385/6d731d33-2a3b-4435-959d-7a75ebcc3da7" width="90" height="90" />
-  <img src="https://github.com/rjones18/rjones18/assets/64709385/d21a3ce1-c5b3-4746-90f5-07d9374095b2" width="90" height="90" />
-  <img src="https://github.com/rjones18/rjones18/assets/64709385/e4eea197-1d30-4e5a-b5c7-244a789b1d6a" width="90" height="90" />
-  <img src="https://github.com/rjones18/rjones18/assets/64709385/8272c31e-fcde-4fba-b104-40fcbeb17512" width="90" height="90" />
-</p>
 
 ---
 
@@ -97,22 +133,22 @@ These repos best represent how I build: **design → automate → deploy → obs
 - AKS Pokémon app (Terraform + Helm): https://github.com/rjones18/Pokemon-Azure-AKS-Cluster  
 - EKS Pokémon app (eksctl + Kustomize): https://github.com/rjones18/AWS-EKS-Python-Pokemon-Pokedex-App  
 - AWS cluster pipeline (Ansible + Bash): https://github.com/rjones18/AWS-Kubernetes-Cluster-Pipeline  
-- GCP cluster playground (Bash): https://github.com/rjones18/GCP-Kubernetes-Cluster-Playground  
-- Azure cluster pipeline (Bash): https://github.com/rjones18/Azure-Kubernetes-Cluster-Pipeline  
+- GCP Kubernetes playground (Bash): https://github.com/rjones18/GCP-Kubernetes-Cluster-Playground  
+- Azure Kubernetes pipeline (Bash): https://github.com/rjones18/Azure-Kubernetes-Cluster-Pipeline  
 
 ### AWS
-- Terraform Wordpress on AWS: https://github.com/rjones18/Terraform-Wordpress-Website-AWS  
+- Terraform WordPress on AWS: https://github.com/rjones18/Terraform-Wordpress-Website-AWS  
 - Portfolio Website (Python CDK): https://github.com/rjones18/AWS-CDK-Portfolio-Website  
-- Cost-saving Lambdas (Python CDK): https://github.com/rjones18/AWS-CDK-Cost-Saving-Lambdas  
+- Cost-Saving Lambdas (Python CDK): https://github.com/rjones18/AWS-CDK-Cost-Saving-Lambdas  
 - App Runner signup app (Terraform + GitLab CI): https://github.com/rjones18/AWS-App-Runner-Python-Signup-Application  
 
 ### GCP
 - Cloud Run Go weather app (Terraform): https://github.com/rjones18/GCP-Cloud-Run-Golang-App  
 - App Engine Pokémon Flask app (CI/CD): https://github.com/rjones18/GCP-App-Engine-Pokemon-Flask-App  
-- Terraform Wordpress on GCP: https://github.com/rjones18/Terraform-Wordpress-Website-GCP  
+- Terraform WordPress on GCP: https://github.com/rjones18/Terraform-Wordpress-Website-GCP  
 
 ### Azure
-- Terraform Wordpress on Azure: https://github.com/rjones18/Terraform-Wordpress-Website-Azure  
+- Terraform WordPress on Azure: https://github.com/rjones18/Terraform-Wordpress-Website-Azure  
 - Static site + CDN (Terraform): https://github.com/rjones18/Azure-CDN-Static-Website-Terraform  
 - Azure App Service Python blog: https://github.com/rjones18/Azure-App-Service-Python-App  
 
@@ -120,6 +156,23 @@ These repos best represent how I build: **design → automate → deploy → obs
 - Pokémon stats analysis (Jupyter): https://github.com/rjones18/Pokemon-Stats-Data-Analysis  
 - Micro blog app (Heroku + MongoDB): https://github.com/rjones18/Micro-Blog-Application  
 - Weather API (Python): https://github.com/rjones18/Tell-Me-the-Weather  
+
+---
+
+## Certifications
+<p>
+  <img src="https://github.com/rjones18/rjones18/assets/64709385/396f7f41-1bcd-4c15-ae5c-febecfe9b037" width="90" height="90" />
+  <img src="https://github.com/rjones18/rjones18/assets/64709385/1268b257-0a0c-4f6b-9937-7734a00bd15f" width="90" height="90" />
+  <img width="90" height="90" alt="image" src="https://github.com/user-attachments/assets/96204c3f-368d-4dd4-b9cd-19d0c3285c07" />
+  <img src="https://github.com/rjones18/rjones18/assets/64709385/9f631105-815c-48f7-bc69-a80264a7697d" width="90" height="90" />
+  <img src="https://github.com/rjones18/rjones18/assets/64709385/c5c3c934-1c51-407f-af99-e3ec5251fea9" width="90" height="90" />
+  <img src="https://github.com/rjones18/rjones18/assets/64709385/3a9ea3a0-5e08-4a32-bb03-4c9af8e5d42b" width="90" height="90" />
+  <img src="https://github.com/rjones18/rjones18/assets/64709385/49519f46-127d-4c1c-a8a0-bdb00a8cdec4" width="90" height="90" />
+  <img src="https://github.com/rjones18/rjones18/assets/64709385/6d731d33-2a3b-4435-959d-7a75ebcc3da7" width="90" height="90" />
+  <img src="https://github.com/rjones18/rjones18/assets/64709385/d21a3ce1-c5b3-4746-90f5-07d9374095b2" width="90" height="90" />
+  <img src="https://github.com/rjones18/rjones18/assets/64709385/e4eea197-1d30-4e5a-b5c7-244a789b1d6a" width="90" height="90" />
+  <img src="https://github.com/rjones18/rjones18/assets/64709385/8272c31e-fcde-4fba-b104-40fcbeb17512" width="90" height="90" />
+</p>
 
 ---
 
@@ -134,3 +187,4 @@ These repos best represent how I build: **design → automate → deploy → obs
 ## Fun
 Spotify Playing 🎧  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=l896cnreptmbkpucr7kteejwh&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=l896cnreptmbkpucr7kteejwh&redirect=true)
+
