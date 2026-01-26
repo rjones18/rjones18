@@ -1,6 +1,6 @@
 <!-- Optional: keep one visual, but avoid multiple giant gifs -->
 <p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" alt="banner" />
+  <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/d378ebf7-4049-433e-80fa-a6cc6fd620d5" />
 </p>
 
 <h1 align="center">Reggie Jones</h1>
