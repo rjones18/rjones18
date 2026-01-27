@@ -197,11 +197,15 @@ These repositories best represent how I build: **design → automate → deploy 
 ## Stats
 <p align="center">
   <img width="420" src="https://github-readme-stats.vercel.app/api?username=rjones18&show_icons=true&hide_border=true" />
-  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjones18&layout=compact&hide_border=true" />
+<img
+  width="320"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjones18&layout=compact&hide=html,css,jupyter%20notebook,php,smarty,dockerfile&langs_count=6&hide_border=true"
+/>
+
 </p>
 
 ---
 
 ## Fun
 Spotify Playing 🎧  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=l896cnreptmbkpucr7kteejwh&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=l896cnreptmbkpucr)_)]()
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=l896cnreptmbkpucr7kteejwh&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=l896cnreptmbkpucr)
