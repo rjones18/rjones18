@@ -1,6 +1,7 @@
 <!-- Optional: keep one visual, but avoid multiple giant gifs -->
 <p align="center">
-<img width="700" height="533" alt="image" src="https://github.com/user-attachments/assets/e7ee9ddb-37cf-4ef9-9509-f460343d9267" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/7ea42fe1-c5a2-4fa8-97ad-9e57f2d9379e" />
+
 
 </p>
 
