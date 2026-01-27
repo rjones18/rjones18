@@ -1,6 +1,7 @@
 <!-- Optional: keep one visual, but avoid multiple giant gifs -->
 <p align="center">
-  <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/d378ebf7-4049-433e-80fa-a6cc6fd620d5" />
+<img width="700" height="533" alt="image" src="https://github.com/user-attachments/assets/e7ee9ddb-37cf-4ef9-9509-f460343d9267" />
+
 </p>
 
 <h1 align="center">Reggie Jones</h1>
