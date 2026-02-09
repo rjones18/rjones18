@@ -140,24 +140,24 @@ _(none published yet)_
 _(none published yet)_
 
 ---
+## ⭐ Featured Work (Start Here)
+These repositories best represent how I build systems end-to-end:  
+**design → automate → deploy → observe**.
 
-## Featured work (start here)
-These repositories best represent how I build: **design → automate → deploy → observe**.
+- **Translator Torch** — AI-powered language translation using Python and AWS services  
+  https://github.com/rjones18/Translator-Torch
 
-- **AWS EKS Pokémon Pokedex App** — EKS + automation + Kubernetes manifests  
+- **MALIK-AI** — Personal AI assistant inspired by JARVIS, built with Python and cloud services  
+  https://github.com/rjones18/MALIK-AI
+
+- **AWS EKS Pokémon Pokedex App** — Kubernetes application on EKS with automation and manifests  
   https://github.com/rjones18/AWS-EKS-Python-Pokemon-Pokedex-App
 
-- **GKE Pokémon App** — Terraform + Kustomize deployment patterns  
+- **GKE Pokémon App** — Terraform + Kustomize deployment patterns on GCP  
   https://github.com/rjones18/GCP-GKE-Pokemon-App
 
-- **AKS Pokémon App** — Terraform + Helm, Azure flavor of the same platform concerns  
+- **AKS Pokémon App** — Terraform + Helm, Azure implementation of the same platform concerns  
   https://github.com/rjones18/Pokemon-Azure-AKS-Cluster
-
-- **AWS Kubernetes Cluster Pipeline** — Infrastructure automation for cluster setup  
-  https://github.com/rjones18/AWS-Kubernetes-Cluster-Pipeline
-
-- **AWS CDK Cost-Saving Lambdas** — Ops automation with Python CDK  
-  https://github.com/rjones18/AWS-CDK-Cost-Saving-Lambdas
 
 ---
 
@@ -168,9 +168,10 @@ These repositories best represent how I build: **design → automate → deploy 
 - GKE Pokémon app (Terraform + Kustomize): https://github.com/rjones18/GCP-GKE-Pokemon-App  
 - AKS Pokémon app (Terraform + Helm): https://github.com/rjones18/Pokemon-Azure-AKS-Cluster  
 - EKS Pokémon app (eksctl + Kustomize): https://github.com/rjones18/AWS-EKS-Python-Pokemon-Pokedex-App  
-- AWS cluster pipeline (Ansible + Bash): https://github.com/rjones18/AWS-Kubernetes-Cluster-Pipeline  
+- AWS Kubernetes cluster pipeline (Ansible + Bash): https://github.com/rjones18/AWS-Kubernetes-Cluster-Pipeline  
 - GCP Kubernetes playground (Bash): https://github.com/rjones18/GCP-Kubernetes-Cluster-Playground  
 - Azure Kubernetes pipeline (Bash): https://github.com/rjones18/Azure-Kubernetes-Cluster-Pipeline  
+
 
 ### AWS
 - Terraform WordPress on AWS: https://github.com/rjones18/Terraform-Wordpress-Website-AWS  
