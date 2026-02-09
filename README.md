@@ -97,7 +97,6 @@ My experience is **AWS-first in production**, with hands-on work across **Azure 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original-wordmark.svg" width="50" />
   <img src="https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png" width="50" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openapi/openapi-original-wordmark.svg" width="50" />
 </div>
 
 
