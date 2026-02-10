@@ -108,7 +108,6 @@ I build **reusable, production-focused Terraform modules** with clear inputs, se
 and examples designed for real-world infrastructure usage.
 
 ---
-
 ### ☁️ AWS Terraform Modules
 
 These modules are published and maintained as standalone repositories.
@@ -132,7 +131,10 @@ These modules are published and maintained as standalone repositories.
 ---
 
 ### ☁️ GCP Terraform Modules
-_(none published yet)_
+
+- **Cloud Run Terraform Module**  
+  Reusable Terraform module for deploying containerized applications to Google Cloud Run.  
+  https://github.com/rjones18/GCP-CLOUDRUNNER-TERRAFORM-MODULE
 
 ---
 
@@ -140,6 +142,7 @@ _(none published yet)_
 _(none published yet)_
 
 ---
+
 ## ⭐ Featured Work (Start Here)
 These repositories best represent how I build systems end-to-end:  
 **design → automate → deploy → observe**.
@@ -150,44 +153,72 @@ These repositories best represent how I build systems end-to-end:
 - **MALIK-AI** — Personal AI assistant inspired by JARVIS, built with Python and cloud services  
   https://github.com/rjones18/MALIK-AI
 
-- **AWS EKS Pokémon Pokedex App** — Kubernetes application on EKS with automation and manifests  
-  https://github.com/rjones18/AWS-EKS-Python-Pokemon-Pokedex-App
+- **Cloud Run Go Weather App** — Serverless container deployment on GCP using Terraform  
+  https://github.com/rjones18/GCP-Cloud-Run-Golang-App
 
-- **GKE Pokémon App** — Terraform + Kustomize deployment patterns on GCP  
-  https://github.com/rjones18/GCP-GKE-Pokemon-App
+- **App Engine Pokémon Flask App** — CI/CD-driven Flask application deployed on GCP App Engine  
+  https://github.com/rjones18/GCP-App-Engine-Pokemon-Flask-App
 
-- **AKS Pokémon App** — Terraform + Helm, Azure implementation of the same platform concerns  
+- **AKS Pokémon App** — Terraform + Helm implementation of Kubernetes on Azure  
   https://github.com/rjones18/Pokemon-Azure-AKS-Cluster
 
 ---
 
-## Projects by area
+## Projects by Cloud Provider
 
-### Kubernetes
-- RKE2 on GCP (Bash automation): https://github.com/rjones18/GCP-RKE2-Cluster  
-- GKE Pokémon app (Terraform + Kustomize): https://github.com/rjones18/GCP-GKE-Pokemon-App  
-- AKS Pokémon app (Terraform + Helm): https://github.com/rjones18/Pokemon-Azure-AKS-Cluster  
-- EKS Pokémon app (eksctl + Kustomize): https://github.com/rjones18/AWS-EKS-Python-Pokemon-Pokedex-App  
-- AWS Kubernetes cluster pipeline (Ansible + Bash): https://github.com/rjones18/AWS-Kubernetes-Cluster-Pipeline  
-- GCP Kubernetes playground (Bash): https://github.com/rjones18/GCP-Kubernetes-Cluster-Playground  
-- Azure Kubernetes pipeline (Bash): https://github.com/rjones18/Azure-Kubernetes-Cluster-Pipeline  
+### ☁️ AWS
+- AWS EKS Pokémon Pokedex App (Kubernetes + automation):  
+  https://github.com/rjones18/AWS-EKS-Python-Pokemon-Pokedex-App  
 
+- AWS Kubernetes cluster pipeline (Ansible + Bash):  
+  https://github.com/rjones18/AWS-Kubernetes-Cluster-Pipeline  
 
-### AWS
-- Terraform WordPress on AWS: https://github.com/rjones18/Terraform-Wordpress-Website-AWS  
-- Portfolio Website (Python CDK): https://github.com/rjones18/AWS-CDK-Portfolio-Website  
-- Cost-Saving Lambdas (Python CDK): https://github.com/rjones18/AWS-CDK-Cost-Saving-Lambdas  
-- App Runner signup app (Terraform + GitLab CI): https://github.com/rjones18/AWS-App-Runner-Python-Signup-Application  
+- Cost-Saving Lambdas (Python CDK + EventBridge):  
+  https://github.com/rjones18/AWS-CDK-Cost-Saving-Lambdas  
 
-### GCP
-- Cloud Run Go weather app (Terraform): https://github.com/rjones18/GCP-Cloud-Run-Golang-App  
-- App Engine Pokémon Flask app (CI/CD): https://github.com/rjones18/GCP-App-Engine-Pokemon-Flask-App  
-- Terraform WordPress on GCP: https://github.com/rjones18/Terraform-Wordpress-Website-GCP  
+- Terraform WordPress on AWS:  
+  https://github.com/rjones18/Terraform-Wordpress-Website-AWS  
 
-### Azure
-- Terraform WordPress on Azure: https://github.com/rjones18/Terraform-Wordpress-Website-Azure  
-- Static site + CDN (Terraform): https://github.com/rjones18/Azure-CDN-Static-Website-Terraform  
-- Azure App Service Python blog: https://github.com/rjones18/Azure-App-Service-Python-App  
+- Portfolio Website (Python CDK):  
+  https://github.com/rjones18/AWS-CDK-Portfolio-Website  
+
+- App Runner signup app (Terraform + GitLab CI):  
+  https://github.com/rjones18/AWS-App-Runner-Python-Signup-Application  
+
+---
+
+### ☁️ GCP
+- GKE Pokémon App (Terraform + Kustomize):  
+  https://github.com/rjones18/GCP-GKE-Pokemon-App  
+
+- RKE2 on GCP (Bash automation):  
+  https://github.com/rjones18/GCP-RKE2-Cluster  
+
+- GCP Kubernetes playground (Bash):  
+  https://github.com/rjones18/GCP-Kubernetes-Cluster-Playground  
+
+- Terraform WordPress on GCP:  
+  https://github.com/rjones18/Terraform-Wordpress-Website-GCP  
+
+---
+
+### ☁️ Azure
+- AKS Pokémon App (Terraform + Helm):  
+  https://github.com/rjones18/Pokemon-Azure-AKS-Cluster  
+
+- Azure Kubernetes pipeline (Bash):  
+  https://github.com/rjones18/Azure-Kubernetes-Cluster-Pipeline  
+
+- Terraform WordPress on Azure:  
+  https://github.com/rjones18/Terraform-Wordpress-Website-Azure  
+
+- Static site + CDN (Terraform):  
+  https://github.com/rjones18/Azure-CDN-Static-Website-Terraform  
+
+- Azure App Service Python blog:  
+  https://github.com/rjones18/Azure-App-Service-Python-App  
+
+---
 
 ### Other
 - Pokémon stats analysis (Jupyter): https://github.com/rjones18/Pokemon-Stats-Data-Analysis  
