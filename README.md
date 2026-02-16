@@ -132,6 +132,10 @@ These modules are published and maintained as standalone repositories.
 
 ### ☁️ GCP Terraform Modules
 
+- **VPC Terraform Module**  
+  Networking foundations with support for multi-region designs, subnets, and routing.  
+  https://github.com/rjones18/GCP-VPC-TERRAFORM-MODULE
+
 - **Cloud Run Terraform Module**  
   Reusable Terraform module for deploying containerized applications to Google Cloud Run.  
   https://github.com/rjones18/GCP-CLOUDRUNNER-TERRAFORM-MODULE
