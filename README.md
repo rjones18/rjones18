@@ -140,6 +140,11 @@ These modules are published and maintained as standalone repositories.
   Reusable Terraform module for deploying containerized applications to Google Cloud Run.  
   https://github.com/rjones18/GCP-CLOUDRUNNER-TERRAFORM-MODULE
 
+- **GKE Terraform Module**  
+  Kubernetes cluster foundations on GCP with opinionated defaults.  
+  https://github.com/rjones18/GCP-GKE-TERRAFORM-MODULE
+
+
 ---
 
 ### ☁️ Microsoft Azure Terraform Modules
