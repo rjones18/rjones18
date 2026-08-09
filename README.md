@@ -8,7 +8,7 @@
 <h1 align="center">Reggie Jones</h1>
 
 <p align="center">
-  Senior DevOps / CloudOps Engineer • AWS • Azure • GCP • Automation • IaC • Containers • Reliability
+  Infrastructure Security Engineer II • Cloud Security • AWS • GCP • Terraform • Kubernetes • DevSecOps
 </p>
 
 <p align="center">
@@ -19,10 +19,11 @@
 ---
 
 ## About me
-I build and operate **reliable cloud platforms** with a focus on **automation, infrastructure-as-code, and containerized workloads**.  
-I enjoy turning manual runbooks into repeatable systems, improving observability, and enabling teams to deploy faster and safer.
+I’m an **Infrastructure Security Engineer II** focused on securing cloud infrastructure, container platforms, CI/CD pipelines, and infrastructure-as-code.  
 
-My experience is **AWS-first in production**, with hands-on work across **Azure and GCP**, and a growing focus on **platform engineering and multi-cloud environments**.
+My background is rooted in **DevOps, Linux, cloud infrastructure, automation, and platform engineering**, which I now apply to **cloud and infrastructure security** across AWS and GCP environments.
+
+I enjoy building secure-by-default systems, reducing cloud risk through automation, strengthening identity and access controls, and making security part of the engineering workflow rather than a final checkpoint.
 
 ---
 <h2 align="center">🛠️ Engineering Toolkit</h2>
@@ -42,7 +43,7 @@ My experience is **AWS-first in production**, with hands-on work across **Azure 
 
 ---
 
-## ☁️ Cloud & Infrastructure as Code
+## ☁️ Cloud, Security & Infrastructure as Code
 <div align="center">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="50" />
@@ -51,6 +52,19 @@ My experience is **AWS-first in production**, with hands-on work across **Azure 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/packer/packer-original-wordmark.svg" width="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="50" />
 </div>
+
+---
+
+## 🔐 Cloud & Infrastructure Security
+<div align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original-wordmark.svg" width="50" />
+</div>
+
+**Focus areas:** IAM & least privilege • cloud security controls • IaC security • Kubernetes security • CI/CD hardening • policy-as-code • multi-cloud governance
 
 ---
 
@@ -151,8 +165,8 @@ _(none published yet)_
 ---
 
 ## ⭐ Featured Work (Start Here)
-These repositories best represent how I build systems end-to-end:  
-**design → automate → deploy → observe**.
+These repositories best represent how I approach cloud systems end-to-end:  
+**design → secure → automate → deploy → observe**.
 
 - **Translator Torch** — AI-powered language translation using Python and AWS services  
   https://github.com/rjones18/Translator-Torch
